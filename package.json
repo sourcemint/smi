@@ -1,9 +1,9 @@
 {
-  "name": "sm-installer",
+  "name": "smi",
   "version": "0.1.0",
   "pm": "npm",
   "publish": true,
-  "main": "./lib/installer.js",
+  "main": "./lib/smi.js",
   "engines": {
     "node": ">=0.10.4"
   },

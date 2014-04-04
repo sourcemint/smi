@@ -1,14 +1,14 @@
 
 const PATH = require("path");
 const ASSERT = require("assert");
-const INSTALLER = require("../lib/installer");
+const SMI = require("../lib/smi");
 
 //const MODE = "test";
 const MODE = "write";
 
 const DEBUG = false;
 
-describe('installer', function() {
+describe('smi', function() {
 
 
 
