@@ -1,0 +1,5 @@
+{
+	"mappings": {
+		"./dependencies/smi": "https://github.com/sourcemint/smi/archive/79f3e17464adca0099eff44d37579cb052f8a05a.tar.gz"
+	}
+}
