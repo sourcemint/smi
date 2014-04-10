@@ -1,8 +1,8 @@
 {
 	"upstream": {
-		"catalog1": "./02-mappings-catalog.catalog.json"
+		"02-mappings-catalog": "./02-mappings-catalog.catalog.json"
 	},
 	"mappings": {
-		"./dependencies/smi-test-package-1": "catalog1/smi-test-package-1"
+		"./dependencies/smi-test-package-1": "02-mappings-catalog/smi-test-package-1"
 	}
 }

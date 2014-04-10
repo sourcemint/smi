@@ -1,8 +1,8 @@
 {
 	"upstream": {
-		"catalog1": "./03-mappings-catalog-remote.catalog.json"
+		"03-mappings-catalog-remote": "https://raw.githubusercontent.com/sourcemint/smi/v0.2.0/test/assets/03-mappings-catalog-remote.catalog.json"
 	},
 	"mappings": {
-		"./dependencies/smi-test-package-1": "catalog1/smi-test-package-1"
+		"./dependencies/smi-test-package-1": "03-mappings-catalog-remote/smi-test-package-1"
 	}
 }
