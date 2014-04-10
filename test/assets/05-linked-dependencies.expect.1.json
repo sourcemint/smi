@@ -3,6 +3,31 @@
         "files": {
             "dependencies": {
                 "files": {
+                    "smi-test-package-1-23c169e.tgz": "d5d2b1c3a47575605de28ef77dd84fae",
+                    "smi-test-package-1": {
+                        "files": {
+                            ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
+                            ".smi.json": "509b6fc259cd85648c96bc611f4663bf",
+                            "package.json": "c507821b47ed0e5fe39eeff6886da00f"
+                        },
+                        "hash": "a9aa749ff3daba4d47a6c34b4804689e"
+                    },
+                    "smi-test-package-1-23c169e": {
+                        "files": {
+                            ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
+                            ".smi.json": "509b6fc259cd85648c96bc611f4663bf",
+                            "package.json": "c507821b47ed0e5fe39eeff6886da00f"
+                        },
+                        "hash": "a9aa749ff3daba4d47a6c34b4804689e"
+                    },
+                    "smi-test-package-1-23c169e~extracted": {
+                        "files": {
+                            ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
+                            ".smi.json": "509b6fc259cd85648c96bc611f4663bf",
+                            "package.json": "c507821b47ed0e5fe39eeff6886da00f"
+                        },
+                        "hash": "a9aa749ff3daba4d47a6c34b4804689e"
+                    },
                     "smi-test-package-2": {
                         "files": {
                             "scripts": {
@@ -23,18 +48,18 @@
                                             "smi-test-package-1": {
                                                 "files": {
                                                     ".npmignore": "a171e2c1936c2a289023372cc76e73ed",
-                                                    "package.json": "ac1d0eadf16cb2bd266ae2e6477add67"
+                                                    "package.json": "be56c20139d2c325ca62230918de68a3"
                                                 },
-                                                "hash": "7a2161eaeacdeb6a5c6a246b7dcdc9b6"
+                                                "hash": "cdf05b96610b01ba6bc0c16974a80042"
                                             }
                                         },
-                                        "hash": "f610ec163c8daab6dbfd7069cd2d1613"
+                                        "hash": "b99c7d8d819cce512df46df6a61d7b2b"
                                     }
                                 },
-                                "hash": "095f3d744cd3f80ce15da44f499387cc"
+                                "hash": "84a5fb1803847b77e655e4b5dbf3c267"
                             }
                         },
-                        "hash": "b9564896c81b848b40ca9ff53de79db0"
+                        "hash": "be540030208664bc2c0f4a4f96db623f"
                     },
                     "smi-test-package-2-7b02eec": {
                         "files": {
@@ -84,24 +109,68 @@
                                             "smi-test-package-1": {
                                                 "files": {
                                                     ".npmignore": "a171e2c1936c2a289023372cc76e73ed",
-                                                    "package.json": "ac1d0eadf16cb2bd266ae2e6477add67"
+                                                    "package.json": "be56c20139d2c325ca62230918de68a3"
                                                 },
-                                                "hash": "7a2161eaeacdeb6a5c6a246b7dcdc9b6"
+                                                "hash": "cdf05b96610b01ba6bc0c16974a80042"
                                             }
                                         },
-                                        "hash": "f610ec163c8daab6dbfd7069cd2d1613"
+                                        "hash": "b99c7d8d819cce512df46df6a61d7b2b"
                                     }
                                 },
-                                "hash": "095f3d744cd3f80ce15da44f499387cc"
+                                "hash": "84a5fb1803847b77e655e4b5dbf3c267"
                             }
                         },
-                        "hash": "16d36ff101a65bb3a834a8ab4546cbd0"
+                        "hash": "71f7422f55798bd105dd24b0425cacb7"
                     }
                 },
-                "hash": "234e4496098f50d4df852a552d14134e"
+                "hash": "2a20fbd800c8c64b477ffba11c122da6"
             }
         },
-        "hash": "802796828dc058a7e87889f3bd7d4f78"
+        "hash": "9bc5f32097cb42caf0f8a20b4c2e820a"
     },
-    "info": {}
+    "info": {
+        "./dependencies/smi-test-package-2": {
+            "scripts": {
+                "location": "https://github.com/sourcemint/smi-test-package-2/archive/v0.4.0.tar.gz",
+                "subpath": "scripts",
+                "smi": {
+                    "revision": "7b02eec3531abfb86abae48fbf0b5b8392dd20cd",
+                    "downloadedPath": "./dependencies/smi-test-package-2-7b02eec/scripts.tgz",
+                    "extractedPath": "./dependencies/smi-test-package-2-7b02eec/scripts~extracted",
+                    "installedPath": "./dependencies/smi-test-package-2-7b02eec/scripts",
+                    "livePath": "./dependencies/smi-test-package-2/scripts"
+                },
+                "descriptor": {}
+            },
+            "source": {
+                "location": "https://github.com/sourcemint/smi-test-package-2/archive/v0.4.0.tar.gz",
+                "subpath": "source",
+                "smi": {
+                    "revision": "7b02eec3531abfb86abae48fbf0b5b8392dd20cd",
+                    "downloadedPath": "./dependencies/smi-test-package-2-7b02eec/source.tgz",
+                    "extractedPath": "./dependencies/smi-test-package-2-7b02eec/source~extracted",
+                    "installedPath": "./dependencies/smi-test-package-2-7b02eec/source",
+                    "livePath": "./dependencies/smi-test-package-2/source"
+                },
+                "descriptor": {}
+            }
+        },
+        "./dependencies/smi-test-package-1": {
+            "": {
+                "location": "https://github.com/sourcemint/smi-test-package-1/archive/v0.2.0.tar.gz",
+                "subpath": null,
+                "smi": {
+                    "revision": "23c169eb7ea0a1a0dc845ec6dd83fe4777247eed",
+                    "downloadedPath": "./dependencies/smi-test-package-1-23c169e.tgz",
+                    "extractedPath": "./dependencies/smi-test-package-1-23c169e~extracted",
+                    "installedPath": "./dependencies/smi-test-package-1-23c169e",
+                    "livePath": "./dependencies/smi-test-package-1"
+                },
+                "descriptor": {
+                    "name": "smi-test-package-1",
+                    "version": "0.2.0"
+                }
+            }
+        }
+    }
 }
