@@ -109,8 +109,8 @@
                                         "files": {
                                             "smi-test-package-1": {
                                                 "files": {
-                                                    ".smi.json": "1092583dacb415a30be4ae76dd264726",
                                                     ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
+                                                    ".smi.json": "1092583dacb415a30be4ae76dd264726",
                                                     "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                                                 },
                                                 "hash": "68339b03210ed5e6e78afbe6cd55b344"

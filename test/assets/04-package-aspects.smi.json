@@ -1,4 +1,9 @@
 {
+    "upstream": {
+        "packages": {
+            "*": "./../.tmp/01-mappings-relpath/dependencies"
+        }
+    },    
 	"mappings": {
 		"./dependencies/smi-test-package-2": {
             "aspects": {

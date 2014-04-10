@@ -7,32 +7,32 @@
                     "smi-test-package-1": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "509b6fc259cd85648c96bc611f4663bf",
+                            ".smi.json": "1092583dacb415a30be4ae76dd264726",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "a9aa749ff3daba4d47a6c34b4804689e"
+                        "hash": "68339b03210ed5e6e78afbe6cd55b344"
                     },
                     "smi-test-package-1-23c169e": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "509b6fc259cd85648c96bc611f4663bf",
+                            ".smi.json": "1092583dacb415a30be4ae76dd264726",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "a9aa749ff3daba4d47a6c34b4804689e"
+                        "hash": "68339b03210ed5e6e78afbe6cd55b344"
                     },
                     "smi-test-package-1-23c169e~extracted": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "509b6fc259cd85648c96bc611f4663bf",
+                            ".smi.json": "1092583dacb415a30be4ae76dd264726",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "a9aa749ff3daba4d47a6c34b4804689e"
+                        "hash": "68339b03210ed5e6e78afbe6cd55b344"
                     }
                 },
-                "hash": "eddc7fd2189929feb45fca9817e13849"
+                "hash": "f5a624bc123f865aec5d8aaad5f921ea"
             }
         },
-        "hash": "1cd085b044bad0fca9c8628a64c65302"
+        "hash": "b8b1bfdf546ec8b960b06671151b1ddc"
     },
     "info": {}
 }
