@@ -4,6 +4,7 @@ const PATH = require("path");
 const FS = require("fs-extra");
 const DIRSUM = require("dirsum");
 const SMI = require("../lib/smi");
+const UTIL = require("./_util");
 const SPAWN = require("child_process").spawn;
 
 
@@ -63,10 +64,10 @@ describe('smi-cli', function() {
 		                }
 						return DIRSUM.digest(resultPath, function(err, hashes) {
 							if (err) return callback(err);
-							var expectInfo = {
+							var expectInfo = UTIL.normalizeInfo({
 								hashes: hashes,
 								info: objects.info
-							};
+							});
 							if (MODE === "write") {
 								FS.outputFileSync(expectPath, JSON.stringify(expectInfo, null, 4));
 							} else {

@@ -3,7 +3,6 @@
         "files": {
             "dependencies": {
                 "files": {
-                    "smi-test-package-1-79a05ba.tgz": "77dd6dc731b7b98799aff3adecbd9ae2",
                     "smi-test-package-1": {
                         "files": {
                             ".smi.json": "9b45ac3ed5796dcadfd7391242b68408",
@@ -18,6 +17,7 @@
                         },
                         "hash": "0751df5976498875263917a035760335"
                     },
+                    "smi-test-package-1-79a05ba.tgz": "77dd6dc731b7b98799aff3adecbd9ae2",
                     "smi-test-package-1-79a05ba~extracted": {
                         "files": {
                             ".smi.json": "9b45ac3ed5796dcadfd7391242b68408",
