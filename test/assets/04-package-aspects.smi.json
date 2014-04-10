@@ -1,0 +1,16 @@
+{
+	"mappings": {
+		"./dependencies/smi-test-package-2": {
+            "aspects": {
+                "scripts": {
+                	"location": "https://github.com/sourcemint/smi-test-package-2/archive/v0.2.0.tar.gz",
+                	"subpath": "scripts"
+                },
+                "source": {
+                	"location": "https://github.com/sourcemint/smi-test-package-2/archive/v0.2.0.tar.gz",
+                	"subpath": "source"
+                }
+            }
+		}
+	}
+}
