@@ -1,9 +1,12 @@
 {
   "name": "smi.cli",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "pm": "npm",
   "publish": true,
   "main": "./lib/smi.js",
+  "bin": {
+    "smi": "./bin/smi"
+  },
   "dependencies": {
     "async": "^0.7.0",
     "colors": "^0.6.2",
