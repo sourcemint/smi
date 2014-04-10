@@ -1,6 +1,7 @@
 {
     "hashes": {
         "files": {
+            "package.json": "bf48a666f42b53813e0cfe9cd321bd1e",
             "dependencies": {
                 "files": {
                     "smi-test-package-1-23c169e.tgz": "d5d2b1c3a47575605de28ef77dd84fae",
@@ -32,7 +33,7 @@
                 "hash": "f5a624bc123f865aec5d8aaad5f921ea"
             }
         },
-        "hash": "b8b1bfdf546ec8b960b06671151b1ddc"
+        "hash": "08203f95123be16d6c7aaa142f2be9c9"
     },
     "info": {
         "./dependencies/smi-test-package-1": {

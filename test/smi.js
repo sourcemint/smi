@@ -31,14 +31,7 @@ describe('smi', function() {
 			var resultPath = PATH.join(tmpPath, testName);
 
     		function run(expectPath, callback) {
-    			var descriptor = Object.create({
-    				_path: PATH.join(assetBasePath, filename)
-    			});
-    			var _descriptor = FS.readJsonSync(descriptor._path);
-    			for (var name in _descriptor) {
-    				descriptor[name] = _descriptor[name];
-    			}
-	    		return SMI.install(resultPath, descriptor, function(err, info) {
+	    		return SMI.install(resultPath, PATH.join(assetBasePath, filename), function(err, info) {
 	    			if (err) return callback(err);
 					return DIRSUM.digest(resultPath, function(err, hashes) {
 						if (err) return callback(err);
