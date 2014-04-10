@@ -26,6 +26,12 @@
     "mocha": "~1.9.0"
   },
   "scripts": {
-    "test": "make test"
+    "test": "node_modules/.bin/mocha --reporter list test/*.js"
+  },
+  "config": {
+    "pio.deploy.converter": {
+        "name": "nodejs-lib",
+        "scriptsPath": "scripts.pio"
+    }
   }
 }
