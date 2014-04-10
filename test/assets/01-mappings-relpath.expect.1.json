@@ -42,9 +42,9 @@
                                             "component.json": "526cccd37c514ef10db75a6258c497fe",
                                             "index.js": "86dd2b7d84871c8acc6f39320170c5ad",
                                             "mocha.css": "1b33d266593ad7a707475c844a884271",
+                                            "package.json": "0c415faefe638469845d7f76e1bca454",
                                             "mocha.js": "58e508c6ce8293697076187da13f0390",
                                             "test.js": "b047b22828c7aee4f7ba12c723c58de1",
-                                            "package.json": "6c1f5a27bfde6705635c726fca6b43d4",
                                             "bin": {
                                                 "files": {
                                                     "_mocha": "f623361a1fdcfbe98b761fa92e7e30f4",
@@ -74,8 +74,8 @@
                                                     "browser": {
                                                         "files": {
                                                             "debug.js": "8850b87f69a77667a5a819f3bd185211",
-                                                            "events.js": "b926bbf13dd3b725c7114230b9ad559d",
                                                             "diff.js": "579a6df77ecd4578d10f4c1e8bffe770",
+                                                            "events.js": "b926bbf13dd3b725c7114230b9ad559d",
                                                             "fs.js": "d41d8cd98f00b204e9800998ecf8427e",
                                                             "path.js": "d41d8cd98f00b204e9800998ecf8427e",
                                                             "progress.js": "fe769df4f875fa2cef570f23105c1e4e",
@@ -145,7 +145,7 @@
                                                             "Makefile": "e1795ede2751386c3d0cfa1580f5d69f",
                                                             "Readme.md": "35ee620e140c71ee841de61d4a481f62",
                                                             "index.js": "1ce521d5b4085b526b6c7cf28e4e8da4",
-                                                            "package.json": "a15edaa92efbd6341ee9123af2773300",
+                                                            "package.json": "5db87dde0c0c277387e809fd7d60dae7",
                                                             "lib": {
                                                                 "files": {
                                                                     "commander.js": "b1c42b9fe85414e45deb2c3c41a4344c"
@@ -153,13 +153,13 @@
                                                                 "hash": "52112f7d14f421dd661e4199addc5ae7"
                                                             }
                                                         },
-                                                        "hash": "586689953353cc6e145644a1abbd7b20"
+                                                        "hash": "479a8454d91ee0339f10f5371ccc21a0"
                                                     },
                                                     "debug": {
                                                         "files": {
                                                             "Readme.md": "e1ecb5c60f60d2003e30811b15983573",
                                                             "debug.js": "b2946f47a7053a57ee2d0a0c189b8acf",
-                                                            "package.json": "88d00b610406106cc868fd9d0ca163c3",
+                                                            "package.json": "9f66aa464c0419918fb2690c60a472ac",
                                                             "lib": {
                                                                 "files": {
                                                                     "debug.js": "1d7a2b7ae19b1426b48fecdecf5a80d9"
@@ -167,24 +167,7 @@
                                                                 "hash": "ef1fe67acb1f9804ae6eacec2fa47042"
                                                             }
                                                         },
-                                                        "hash": "b91742a69265b0b7bf6d434318f973e5"
-                                                    },
-                                                    "diff": {
-                                                        "files": {
-                                                            "LICENSE": "c5210a0aa936bcb55262a56ac192cf48",
-                                                            "README.md": "22b2d7a1c5745f194a6afedb1116d5af",
-                                                            "diff.js": "579a6df77ecd4578d10f4c1e8bffe770",
-                                                            "index.html": "40c3a14a20b691e98084f2789ad962a0",
-                                                            "package.json": "18d0d103b1474066ede1288e5e76814b",
-                                                            "style.css": "7bd43e4b2ab73ca064296fb874215166",
-                                                            "test": {
-                                                                "files": {
-                                                                    "diffTest.js": "a146c619183cb6b25b296c8e4a0d4961"
-                                                                },
-                                                                "hash": "962357df4a3cf0cbb58f743aca911c1a"
-                                                            }
-                                                        },
-                                                        "hash": "6a00937aec31e10a30eead8880805579"
+                                                        "hash": "dbfe7328c1cc8941f2425847472fdf38"
                                                     },
                                                     "growl": {
                                                         "files": {
@@ -201,6 +184,23 @@
                                                         },
                                                         "hash": "d6b6293930964af79ada2ee25a14475f"
                                                     },
+                                                    "diff": {
+                                                        "files": {
+                                                            "LICENSE": "c5210a0aa936bcb55262a56ac192cf48",
+                                                            "README.md": "22b2d7a1c5745f194a6afedb1116d5af",
+                                                            "diff.js": "579a6df77ecd4578d10f4c1e8bffe770",
+                                                            "index.html": "40c3a14a20b691e98084f2789ad962a0",
+                                                            "package.json": "c2eb36dffa22999ca34bfd45eb0801f2",
+                                                            "style.css": "7bd43e4b2ab73ca064296fb874215166",
+                                                            "test": {
+                                                                "files": {
+                                                                    "diffTest.js": "a146c619183cb6b25b296c8e4a0d4961"
+                                                                },
+                                                                "hash": "962357df4a3cf0cbb58f743aca911c1a"
+                                                            }
+                                                        },
+                                                        "hash": "b984a57b146ce7634721c3daa52d0dd3"
+                                                    },
                                                     "mkdirp": {
                                                         "files": {
                                                             ".gitignore.orig": "5ae411da17e00ce7720908cc528ecdf7",
@@ -210,7 +210,7 @@
                                                             "LICENSE": "b2d989bc186e7f6b418a5fdd5cc0b56b",
                                                             "README.markdown": "4f1481b1f5e4c15f17489360e2042251",
                                                             "index.js": "322406fbc9327779139dc5bd1695c294",
-                                                            "package.json": "6e2b2f4fae74a1cb21e1a0a692ce4681",
+                                                            "package.json": "b66e931592f32eb8f211bdaa4cbdad20",
                                                             "examples": {
                                                                 "files": {
                                                                     "pow.js": "7440de96a1a111e53e3da08f0d8bb8eb",
@@ -223,8 +223,8 @@
                                                                 "files": {
                                                                     "chmod.js": "c28bcbdf53353174c7c98282939a7cf2",
                                                                     "clobber.js": "7e1dbdaeed839c0f8c05ee2ea9c0442e",
-                                                                    "perm.js": "d6f0894505c496bde19af66d737f94ce",
                                                                     "mkdirp.js": "a65c98505ff8ee06ae4479720c4ba191",
+                                                                    "perm.js": "d6f0894505c496bde19af66d737f94ce",
                                                                     "perm_sync.js": "782e264e9eb7e53308a7892f387e9357",
                                                                     "race.js": "009053221aaea15a1cd91315df02c692",
                                                                     "rel.js": "07d6c34b711eba8f3a6f67224d9963e8",
@@ -238,7 +238,7 @@
                                                                 "hash": "b25b28f558c2c065bab64b109fffca9b"
                                                             }
                                                         },
-                                                        "hash": "837a05d237c5842426df79620703f461"
+                                                        "hash": "b03f3177fae4cf01858e506126eb4ba5"
                                                     },
                                                     "ms": {
                                                         "files": {
@@ -273,7 +273,7 @@
                                                             "jade.md": "ead3ce35eaa531013b98e366109a84e1",
                                                             "jade.js": "6b11a10da749957914fcf3b85f210b01",
                                                             "jade.min.js": "25d05e4b5ed6b8b39e31d88ec665c671",
-                                                            "package.json": "9a1581554b5f2e08c429ecd28f3eab3d",
+                                                            "package.json": "59159c4590c85a2022d5ab8382ef7bbb",
                                                             "runtime.js": "fe0c2b445c510320c5ff0e0f51b82f93",
                                                             "runtime.min.js": "e532b4cc7e7229549fa95d098d511636",
                                                             "test.jade": "37d5c1161405d59c933d3396cf66e8ef",
@@ -297,9 +297,9 @@
                                                             "lib": {
                                                                 "files": {
                                                                     "compiler.js": "2509219e8ae32cd621813eccc2236c23",
+                                                                    "doctypes.js": "f67226f549be5fa30cf023d6ba3ddaa5",
                                                                     "filters.js": "b62caae73114a34564a3dea3c47ea9cf",
                                                                     "inline-tags.js": "8ea451d51d473b621bb6cfaa9e489746",
-                                                                    "doctypes.js": "f67226f549be5fa30cf023d6ba3ddaa5",
                                                                     "jade.js": "e5334fc1d6a1e31a2a654e7ef235364f",
                                                                     "lexer.js": "fd10654488c538d1e7c226eac84717be",
                                                                     "parser.js": "f92e6fa6a1c720ee477077b9d6ef8519",
@@ -314,13 +314,13 @@
                                                                             "case.js": "e1bbbb03177edc9ea9894901a547b54e",
                                                                             "code.js": "ed8207800979424b05d4c31e8cc31f09",
                                                                             "comment.js": "321af9490c14cfea557d952031cf0e1d",
-                                                                            "doctype.js": "2c7d775f7942d0816dc86b69d7237e8e",
                                                                             "each.js": "20566b881b2f88ebd60baa4734ca189d",
+                                                                            "doctype.js": "2c7d775f7942d0816dc86b69d7237e8e",
                                                                             "filter.js": "d074e2f7759fa6380f3c1b036c8afc8a",
                                                                             "index.js": "19e30faf5013003ec1123a2dee03bcc0",
                                                                             "literal.js": "633eb29e6131d5516bcd82e0cd0b57c5",
-                                                                            "mixin.js": "d0c09531ac2687c2290cf82e9ec759d6",
                                                                             "node.js": "74da4d21c0b780d1cd27eb708f2211e1",
+                                                                            "mixin.js": "d0c09531ac2687c2290cf82e9ec759d6",
                                                                             "tag.js": "b93a96fbc3af2b4464bee13af234f73a",
                                                                             "text.js": "43c493725ad3927849b00ba510cce43f"
                                                                         },
@@ -339,12 +339,12 @@
                                                                             "LICENSE": "b2d989bc186e7f6b418a5fdd5cc0b56b",
                                                                             "README.markdown": "b27d545ea9189a2071105544f0f5f4e9",
                                                                             "index.js": "ff5a9ddf410f5568d8fdbcbaa1b65254",
-                                                                            "package.json": "c302302775d7f629eaf755727ed110a1",
+                                                                            "package.json": "f3df0ab4cd7ccf4267439ed3db5bdb20",
                                                                             "examples": {
                                                                                 "files": {
+                                                                                    "pow.js.rej": "7be82534b60ae0e9078d9740979f7e79",
                                                                                     "pow.js": "7440de96a1a111e53e3da08f0d8bb8eb",
-                                                                                    "pow.js.orig": "3d856ec09bb472721f0f3bf6b1032c45",
-                                                                                    "pow.js.rej": "7be82534b60ae0e9078d9740979f7e79"
+                                                                                    "pow.js.orig": "3d856ec09bb472721f0f3bf6b1032c45"
                                                                                 },
                                                                                 "hash": "49c73e4a353fc04ca4389ac613134248"
                                                                             },
@@ -364,30 +364,30 @@
                                                                                 "hash": "f8db5fe4a6ab01be3acf95d0680e0283"
                                                                             }
                                                                         },
-                                                                        "hash": "64e17fbd3059d50152e6d3c04ad0e36c"
+                                                                        "hash": "6726317684f262d192381c2b977a4406"
                                                                     }
                                                                 },
-                                                                "hash": "0407f01062421de45ec6ed8da4d260c8"
+                                                                "hash": "d00651fbaf07172e0107d0e28922c444"
                                                             }
                                                         },
-                                                        "hash": "be1c31b9766fc6b03a7e4668b590af29"
+                                                        "hash": "17d1382eec28ad160e33b465bdb927cc"
                                                     }
                                                 },
-                                                "hash": "c022a25e4c13a2a3d41b525edcd84beb"
+                                                "hash": "d647507a848137bf84b6beefbc35a676"
                                             }
                                         },
-                                        "hash": "319d62379d4b9d7388c3fad482d2705b"
+                                        "hash": "1c82a7423d112c579045e44a0ad0167c"
                                     }
                                 },
-                                "hash": "9a18457381419d658a2af931d8719e13"
+                                "hash": "e03a9ba589eb4abf5db2a7340766038e"
                             }
                         },
-                        "hash": "007d2563e79a678f70aa148e0d87fc7d"
+                        "hash": "76ecb3b0c3e92368f2b430dbd24c9ebd"
                     },
                     "smi-d4b0588": {
                         "files": {
-                            ".gitignore": "d5223ec30e09d0285f82bebf9fea81cb",
                             ".smi.json": "4f6099d2aec9a750e7700072dc7a3bf1",
+                            ".gitignore": "d5223ec30e09d0285f82bebf9fea81cb",
                             "Makefile": "d68b2b669cd384f261304df1ffd5dcbd",
                             "package.json": "13200f74e7254a272a45f0cd74e7b187",
                             "lib": {
@@ -422,7 +422,7 @@
                                             "component.json": "526cccd37c514ef10db75a6258c497fe",
                                             "index.js": "86dd2b7d84871c8acc6f39320170c5ad",
                                             "mocha.css": "1b33d266593ad7a707475c844a884271",
-                                            "package.json": "6c1f5a27bfde6705635c726fca6b43d4",
+                                            "package.json": "0c415faefe638469845d7f76e1bca454",
                                             "mocha.js": "58e508c6ce8293697076187da13f0390",
                                             "test.js": "b047b22828c7aee4f7ba12c723c58de1",
                                             "bin": {
@@ -498,8 +498,8 @@
                                                                 "files": {
                                                                     "coverage.jade": "813c9b819af490832691e32d33793e54",
                                                                     "menu.jade": "6360c985b58d77d10d1bb34b5a0fb249",
-                                                                    "style.html": "39d9e22af56b249e8a6f657e197d5ed5",
-                                                                    "script.html": "c830942409f10ec50c839d56e83a9811"
+                                                                    "script.html": "c830942409f10ec50c839d56e83a9811",
+                                                                    "style.html": "39d9e22af56b249e8a6f657e197d5ed5"
                                                                 },
                                                                 "hash": "a2fed9c07103fc7048e3b6466d0897ff"
                                                             }
@@ -525,7 +525,7 @@
                                                             "Makefile": "e1795ede2751386c3d0cfa1580f5d69f",
                                                             "Readme.md": "35ee620e140c71ee841de61d4a481f62",
                                                             "index.js": "1ce521d5b4085b526b6c7cf28e4e8da4",
-                                                            "package.json": "a15edaa92efbd6341ee9123af2773300",
+                                                            "package.json": "5db87dde0c0c277387e809fd7d60dae7",
                                                             "lib": {
                                                                 "files": {
                                                                     "commander.js": "b1c42b9fe85414e45deb2c3c41a4344c"
@@ -533,13 +533,13 @@
                                                                 "hash": "52112f7d14f421dd661e4199addc5ae7"
                                                             }
                                                         },
-                                                        "hash": "586689953353cc6e145644a1abbd7b20"
+                                                        "hash": "479a8454d91ee0339f10f5371ccc21a0"
                                                     },
                                                     "debug": {
                                                         "files": {
                                                             "Readme.md": "e1ecb5c60f60d2003e30811b15983573",
                                                             "debug.js": "b2946f47a7053a57ee2d0a0c189b8acf",
-                                                            "package.json": "88d00b610406106cc868fd9d0ca163c3",
+                                                            "package.json": "9f66aa464c0419918fb2690c60a472ac",
                                                             "lib": {
                                                                 "files": {
                                                                     "debug.js": "1d7a2b7ae19b1426b48fecdecf5a80d9"
@@ -547,15 +547,15 @@
                                                                 "hash": "ef1fe67acb1f9804ae6eacec2fa47042"
                                                             }
                                                         },
-                                                        "hash": "b91742a69265b0b7bf6d434318f973e5"
+                                                        "hash": "dbfe7328c1cc8941f2425847472fdf38"
                                                     },
                                                     "diff": {
                                                         "files": {
                                                             "LICENSE": "c5210a0aa936bcb55262a56ac192cf48",
-                                                            "diff.js": "579a6df77ecd4578d10f4c1e8bffe770",
                                                             "README.md": "22b2d7a1c5745f194a6afedb1116d5af",
+                                                            "diff.js": "579a6df77ecd4578d10f4c1e8bffe770",
                                                             "index.html": "40c3a14a20b691e98084f2789ad962a0",
-                                                            "package.json": "18d0d103b1474066ede1288e5e76814b",
+                                                            "package.json": "c2eb36dffa22999ca34bfd45eb0801f2",
                                                             "style.css": "7bd43e4b2ab73ca064296fb874215166",
                                                             "test": {
                                                                 "files": {
@@ -564,7 +564,7 @@
                                                                 "hash": "962357df4a3cf0cbb58f743aca911c1a"
                                                             }
                                                         },
-                                                        "hash": "6a00937aec31e10a30eead8880805579"
+                                                        "hash": "b984a57b146ce7634721c3daa52d0dd3"
                                                     },
                                                     "growl": {
                                                         "files": {
@@ -590,7 +590,7 @@
                                                             "LICENSE": "b2d989bc186e7f6b418a5fdd5cc0b56b",
                                                             "README.markdown": "4f1481b1f5e4c15f17489360e2042251",
                                                             "index.js": "322406fbc9327779139dc5bd1695c294",
-                                                            "package.json": "6e2b2f4fae74a1cb21e1a0a692ce4681",
+                                                            "package.json": "b66e931592f32eb8f211bdaa4cbdad20",
                                                             "examples": {
                                                                 "files": {
                                                                     "pow.js": "7440de96a1a111e53e3da08f0d8bb8eb",
@@ -618,7 +618,7 @@
                                                                 "hash": "b25b28f558c2c065bab64b109fffca9b"
                                                             }
                                                         },
-                                                        "hash": "837a05d237c5842426df79620703f461"
+                                                        "hash": "b03f3177fae4cf01858e506126eb4ba5"
                                                     },
                                                     "ms": {
                                                         "files": {
@@ -626,8 +626,8 @@
                                                             "History.md": "8177eb4f4ac57cfc7e5d07adb1444854",
                                                             "Makefile": "b579fcf250c1a231be29be9d1ce63359",
                                                             "README.md": "7b841aec4fac86ab7db06eaa1c8abfea",
-                                                            "ms.js": "db8853e186c431640569272a5ccfaddb",
                                                             "component.json": "ed1643122c97f957df6f1d6d98cd776a",
+                                                            "ms.js": "db8853e186c431640569272a5ccfaddb",
                                                             "package.json": "f7d90ee9b256039ddff74f161571a422",
                                                             "test": {
                                                                 "files": {
@@ -652,7 +652,7 @@
                                                             "index.js": "b6bc0041406e5975b812919b3d582b7f",
                                                             "jade.js": "6b11a10da749957914fcf3b85f210b01",
                                                             "jade.md": "ead3ce35eaa531013b98e366109a84e1",
-                                                            "package.json": "9a1581554b5f2e08c429ecd28f3eab3d",
+                                                            "package.json": "59159c4590c85a2022d5ab8382ef7bbb",
                                                             "jade.min.js": "25d05e4b5ed6b8b39e31d88ec665c671",
                                                             "runtime.js": "fe0c2b445c510320c5ff0e0f51b82f93",
                                                             "runtime.min.js": "e532b4cc7e7229549fa95d098d511636",
@@ -693,8 +693,8 @@
                                                                             "block.js": "fda87948ce8bf43cc32d14c852010d23",
                                                                             "case.js": "e1bbbb03177edc9ea9894901a547b54e",
                                                                             "code.js": "ed8207800979424b05d4c31e8cc31f09",
-                                                                            "doctype.js": "2c7d775f7942d0816dc86b69d7237e8e",
                                                                             "comment.js": "321af9490c14cfea557d952031cf0e1d",
+                                                                            "doctype.js": "2c7d775f7942d0816dc86b69d7237e8e",
                                                                             "each.js": "20566b881b2f88ebd60baa4734ca189d",
                                                                             "filter.js": "d074e2f7759fa6380f3c1b036c8afc8a",
                                                                             "index.js": "19e30faf5013003ec1123a2dee03bcc0",
@@ -716,10 +716,10 @@
                                                                             ".gitignore.orig": "5ae411da17e00ce7720908cc528ecdf7",
                                                                             ".gitignore.rej": "a62f85576626a5314cfa25fc923b6990",
                                                                             ".npmignore": "5ae411da17e00ce7720908cc528ecdf7",
-                                                                            "LICENSE": "b2d989bc186e7f6b418a5fdd5cc0b56b",
                                                                             "README.markdown": "b27d545ea9189a2071105544f0f5f4e9",
-                                                                            "package.json": "c302302775d7f629eaf755727ed110a1",
+                                                                            "LICENSE": "b2d989bc186e7f6b418a5fdd5cc0b56b",
                                                                             "index.js": "ff5a9ddf410f5568d8fdbcbaa1b65254",
+                                                                            "package.json": "f3df0ab4cd7ccf4267439ed3db5bdb20",
                                                                             "examples": {
                                                                                 "files": {
                                                                                     "pow.js": "7440de96a1a111e53e3da08f0d8bb8eb",
@@ -733,8 +733,8 @@
                                                                                     "chmod.js": "c28bcbdf53353174c7c98282939a7cf2",
                                                                                     "clobber.js": "7e1dbdaeed839c0f8c05ee2ea9c0442e",
                                                                                     "mkdirp.js": "a65c98505ff8ee06ae4479720c4ba191",
-                                                                                    "perm.js": "d6f0894505c496bde19af66d737f94ce",
                                                                                     "perm_sync.js": "782e264e9eb7e53308a7892f387e9357",
+                                                                                    "perm.js": "d6f0894505c496bde19af66d737f94ce",
                                                                                     "race.js": "009053221aaea15a1cd91315df02c692",
                                                                                     "rel.js": "07d6c34b711eba8f3a6f67224d9963e8",
                                                                                     "sync.js": "d7d2800323d465429315a6fb5d447686",
@@ -744,31 +744,31 @@
                                                                                 "hash": "f8db5fe4a6ab01be3acf95d0680e0283"
                                                                             }
                                                                         },
-                                                                        "hash": "64e17fbd3059d50152e6d3c04ad0e36c"
+                                                                        "hash": "6726317684f262d192381c2b977a4406"
                                                                     }
                                                                 },
-                                                                "hash": "0407f01062421de45ec6ed8da4d260c8"
+                                                                "hash": "d00651fbaf07172e0107d0e28922c444"
                                                             }
                                                         },
-                                                        "hash": "be1c31b9766fc6b03a7e4668b590af29"
+                                                        "hash": "17d1382eec28ad160e33b465bdb927cc"
                                                     }
                                                 },
-                                                "hash": "c022a25e4c13a2a3d41b525edcd84beb"
+                                                "hash": "d647507a848137bf84b6beefbc35a676"
                                             }
                                         },
-                                        "hash": "319d62379d4b9d7388c3fad482d2705b"
+                                        "hash": "1c82a7423d112c579045e44a0ad0167c"
                                     }
                                 },
-                                "hash": "9a18457381419d658a2af931d8719e13"
+                                "hash": "e03a9ba589eb4abf5db2a7340766038e"
                             }
                         },
-                        "hash": "007d2563e79a678f70aa148e0d87fc7d"
+                        "hash": "76ecb3b0c3e92368f2b430dbd24c9ebd"
                     }
                 },
-                "hash": "6c1f91777e3d895dbcb0f0ca0d0d59ac"
+                "hash": "6b4e62ee041d3de2c5f4ecd3ba598231"
             }
         },
-        "hash": "106537e05eba7403ac7f5e240c6275bc"
+        "hash": "32acea75d30b9ddd17067dc6214caa82"
     },
     "info": {
         "./dependencies/smi": {

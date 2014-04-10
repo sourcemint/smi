@@ -1,0 +1,8 @@
+{
+	"upstream": {
+		"catalog1": "./03-mappings-catalog-remote.catalog.json"
+	},
+	"mappings": {
+		"./dependencies/smi-test-package-1": "catalog1/smi-test-package-1"
+	}
+}

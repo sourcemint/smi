@@ -1,0 +1,28 @@
+{
+    "hashes": {
+        "files": {
+            "dependencies": {
+                "files": {
+                    "smi-test-package-1-79a05ba.tgz": "77dd6dc731b7b98799aff3adecbd9ae2",
+                    "smi-test-package-1": {
+                        "files": {
+                            ".smi.json": "a6993d65ecce30fcb42ff1a214d343e5",
+                            "package.json": "5d08d6b910b455b8f97424245889d226"
+                        },
+                        "hash": "690e2373c4b60d2e97ecc599a6d3946f"
+                    },
+                    "smi-test-package-1-79a05ba": {
+                        "files": {
+                            ".smi.json": "a6993d65ecce30fcb42ff1a214d343e5",
+                            "package.json": "5d08d6b910b455b8f97424245889d226"
+                        },
+                        "hash": "690e2373c4b60d2e97ecc599a6d3946f"
+                    }
+                },
+                "hash": "bd15aef1e9b612d83a90fd5c4d422998"
+            }
+        },
+        "hash": "9499c7af7c68034b12e5d40786a052b6"
+    },
+    "info": {}
+}
