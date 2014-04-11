@@ -1,6 +1,5 @@
 /node_modules/
 .rt/
 .sm/
-.pio.*
 /test/.tmp/
 /_packages/
