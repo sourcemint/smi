@@ -128,58 +128,5 @@
         },
         "hash": "01e26bcc76251b24589fecb805b79735"
     },
-    "info": {
-        "./dependencies/smi-test-package-1": {
-            "": {
-                "descriptor": {
-                    "name": "smi-test-package-1",
-                    "version": "0.2.0"
-                },
-                "location": "https://github.com/sourcemint/smi-test-package-1/archive/v0.2.0.tar.gz",
-                "smi": {
-                    "basePath": "./dependencies/smi-test-package-1-cdeaa1d",
-                    "downloadedPath": "./dependencies/smi-test-package-1-cdeaa1d.tgz",
-                    "extractedPath": "./dependencies/smi-test-package-1-cdeaa1d~extracted",
-                    "installedPath": "./dependencies/smi-test-package-1-cdeaa1d",
-                    "livePath": "./dependencies/smi-test-package-1",
-                    "revision": "cdeaa1dc792864346ca726061a34935eaa55db1d"
-                },
-                "subpath": {}
-            }
-        },
-        "./dependencies/smi-test-package-2": {
-            "scripts": {
-                "descriptor": {},
-                "location": "https://github.com/sourcemint/smi-test-package-2/archive/v0.4.0.tar.gz",
-                "smi": {
-                    "basePath": "./dependencies/smi-test-package-2-b767415",
-                    "downloadedPath": "./dependencies/smi-test-package-2-b767415/scripts.tgz",
-                    "extractedPath": "./dependencies/smi-test-package-2-b767415/scripts~extracted",
-                    "installedPath": "./dependencies/smi-test-package-2-b767415/scripts",
-                    "livePath": "./dependencies/smi-test-package-2/scripts",
-                    "revision": "b767415b0cf262fc5a1bd4cb85232d7489d3f6f9"
-                },
-                "subpath": "scripts"
-            },
-            "source": {
-                "descriptor": {
-                    "dependencies": {
-                        "smi-test-package-1": "0.2.0"
-                    },
-                    "name": "smi-test-package-2",
-                    "version": "0.4.0"
-                },
-                "location": "https://github.com/sourcemint/smi-test-package-2/archive/v0.4.0.tar.gz",
-                "smi": {
-                    "basePath": "./dependencies/smi-test-package-2-b767415",
-                    "downloadedPath": "./dependencies/smi-test-package-2-b767415/source.tgz",
-                    "extractedPath": "./dependencies/smi-test-package-2-b767415/source~extracted",
-                    "installedPath": "./dependencies/smi-test-package-2-b767415/source",
-                    "livePath": "./dependencies/smi-test-package-2/source",
-                    "revision": "b767415b0cf262fc5a1bd4cb85232d7489d3f6f9"
-                },
-                "subpath": "source"
-            }
-        }
-    }
+    "info": {}
 }

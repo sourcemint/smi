@@ -166,54 +166,5 @@
         },
         "hash": "c4baef64a765c8a478b8acc4978b38cf"
     },
-    "info": {
-        "./dependencies/smi-test-package-1": {
-            "": {
-                "descriptor": {
-                    "name": "smi-test-package-1",
-                    "version": "0.2.0"
-                },
-                "location": "https://github.com/sourcemint/smi-test-package-1/archive/v0.2.0.tar.gz",
-                "smi": {
-                    "basePath": "./dependencies/smi-test-package-1-cdeaa1d",
-                    "downloadedPath": "./dependencies/smi-test-package-1-cdeaa1d.tgz",
-                    "extractedPath": "./dependencies/smi-test-package-1-cdeaa1d~extracted",
-                    "installedPath": "./dependencies/smi-test-package-1-cdeaa1d",
-                    "livePath": "./dependencies/smi-test-package-1",
-                    "revision": "cdeaa1dc792864346ca726061a34935eaa55db1d"
-                },
-                "subpath": {}
-            }
-        },
-        "group1/smi-test-package-2": {
-            "": {
-                "descriptor": {},
-                "location": "https://github.com/sourcemint/smi-test-package-2/archive/v0.4.0.tar.gz",
-                "smi": {
-                    "basePath": "./_packages/group1/smi-test-package-2-de6f087",
-                    "downloadedPath": "./_packages/group1/smi-test-package-2-de6f087.tgz",
-                    "extractedPath": "./_packages/group1/smi-test-package-2-de6f087~extracted",
-                    "installedPath": "./_packages/group1/smi-test-package-2-de6f087",
-                    "livePath": "./_packages/group1/smi-test-package-2",
-                    "revision": "de6f087b3c355566aecfa7f3e0741ca6775d66e5"
-                },
-                "subpath": {}
-            }
-        },
-        "smi-test-package-2": {
-            "": {
-                "descriptor": {},
-                "location": "https://github.com/sourcemint/smi-test-package-2/archive/v0.4.0.tar.gz",
-                "smi": {
-                    "basePath": "./_packages/smi-test-package-2-de6f087",
-                    "downloadedPath": "./_packages/smi-test-package-2-de6f087.tgz",
-                    "extractedPath": "./_packages/smi-test-package-2-de6f087~extracted",
-                    "installedPath": "./_packages/smi-test-package-2-de6f087",
-                    "livePath": "./_packages/smi-test-package-2",
-                    "revision": "de6f087b3c355566aecfa7f3e0741ca6775d66e5"
-                },
-                "subpath": {}
-            }
-        }
-    }
+    "info": {}
 }

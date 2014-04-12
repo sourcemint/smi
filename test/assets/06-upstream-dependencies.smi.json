@@ -1,7 +1,7 @@
 {
     "upstream": {
         "packages": {
-            "*": "./../.tmp/05-linked-dependencies/dependencies"
+            "./dependencies": "./../.tmp/05-linked-dependencies/dependencies/*"
         }
     },
 	"mappings": {

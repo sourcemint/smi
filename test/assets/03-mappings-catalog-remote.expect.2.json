@@ -31,24 +31,5 @@
         },
         "hash": "dcb064fa361fc9ebb042d33b315f4fdf"
     },
-    "info": {
-        "./dependencies/smi-test-package-1": {
-            "": {
-                "descriptor": {
-                    "name": "smi-test-package-1",
-                    "version": "0.1.0"
-                },
-                "location": "https://github.com/sourcemint/smi-test-package-1/archive/v0.1.0.tar.gz",
-                "smi": {
-                    "basePath": "./dependencies/smi-test-package-1-8fa2dce",
-                    "downloadedPath": "./dependencies/smi-test-package-1-8fa2dce.tgz",
-                    "extractedPath": "./dependencies/smi-test-package-1-8fa2dce~extracted",
-                    "installedPath": "./dependencies/smi-test-package-1-8fa2dce",
-                    "livePath": "./dependencies/smi-test-package-1",
-                    "revision": "8fa2dce774284562819f628c3fd2e0eb28e466f6"
-                },
-                "subpath": {}
-            }
-        }
-    }
+    "info": {}
 }
