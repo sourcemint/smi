@@ -102,6 +102,21 @@ A typical approach is to integrate it into the installation procedure of an exis
 		}
 	}
 
+Extending Descriptors
+---------------------
+
+To compose the dependencies of a package one can extend existing descriptors. Each successive descriptor
+gets merged on top of the previous one after resolving its own extends URLs and finally the declaring
+descriptor (and its overlays) have final say.
+
+	{
+		"extends": [
+			"./local/prototype/descriptor.json",
+			"http://remote.com/prototype/descriptor.json",
+			"<id>/prototype/descriptor.json"
+		]
+	}
+
 
 TODO
 ====
