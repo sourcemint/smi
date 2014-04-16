@@ -5,31 +5,31 @@
                 "files": {
                     "smi-test-package-1": {
                         "files": {
-                            ".smi.json": "0323a2fc6b7050c3fd2f292b874d2c0d",
+                            ".smi.json": "889220b91726c623c98b9a56aa75b000",
                             "package.json": "5d08d6b910b455b8f97424245889d226"
                         },
-                        "hash": "ed69535dcadefbd8d5fcf20f5e3c579a"
+                        "hash": "c2334cdb4d50d29252a6b37ca4e09185"
                     },
                     "smi-test-package-1-8fa2dce": {
                         "files": {
-                            ".smi.json": "0323a2fc6b7050c3fd2f292b874d2c0d",
+                            ".smi.json": "889220b91726c623c98b9a56aa75b000",
                             "package.json": "5d08d6b910b455b8f97424245889d226"
                         },
-                        "hash": "ed69535dcadefbd8d5fcf20f5e3c579a"
+                        "hash": "c2334cdb4d50d29252a6b37ca4e09185"
                     },
                     "smi-test-package-1-8fa2dce.tgz": "77dd6dc731b7b98799aff3adecbd9ae2",
                     "smi-test-package-1-8fa2dce~extracted": {
                         "files": {
-                            ".smi.json": "0323a2fc6b7050c3fd2f292b874d2c0d",
+                            ".smi.json": "889220b91726c623c98b9a56aa75b000",
                             "package.json": "5d08d6b910b455b8f97424245889d226"
                         },
-                        "hash": "ed69535dcadefbd8d5fcf20f5e3c579a"
+                        "hash": "c2334cdb4d50d29252a6b37ca4e09185"
                     }
                 },
-                "hash": "29911d189740b70747035032987a21ea"
+                "hash": "8bdc21624f7be5010ff644077ef0d468"
             }
         },
-        "hash": "dcb064fa361fc9ebb042d33b315f4fdf"
+        "hash": "69ca0ab9dc0aaf97d79d78c43621c06f"
     },
     "info": {}
 }
