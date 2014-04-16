@@ -36,7 +36,58 @@ Usage:
 
 	smi -h
 
-For examples see: [./test/assets](https://github.com/sourcemint/smi/tree/master/test/assets)
+
+Docs
+====
+
+Declaring dependencies
+----------------------
+
+`package.json`
+
+	{
+		"upstream": {
+			"catalogs": {
+				"<id>": "<locator>",
+				"archiveA": "./catalog.json"
+			}
+		},
+		"mappings": {
+			"<id>": "<locator>",
+			// Place extracted archive anywhere
+			"./local/archive1": "http://remote.com/archiveA.tar.gz",
+			// or into `_packages` by default
+			"archive1": "http://remote.com/archiveA.tar.gz",
+			// Map packages using a catalog
+			"archive2": "catalog1/archiveA"
+		}
+	}
+
+`catalog.json`
+
+	{
+		"packages": {
+			"archiveA": "http://remote.com/archiveA.tar.gz"
+		}
+	}
+
+For a complete resource of supported *locators* see [./test/assets](https://github.com/sourcemint/smi/tree/master/test/assets).
+
+
+Installing Dependencies
+-----------------------
+
+	smi install
+
+
+TODO
+====
+
+  * Wrap various third party installers (e.g. `bower`, `composer`)
+  * Write install history
+  * Write more meta data
+  * Cleanup
+  * Refactor to run on *pinf* program prototype
 
 
 License
