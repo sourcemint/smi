@@ -30,7 +30,7 @@ Features:
 Install
 -------
 
-	npm install smi.cli
+	npm install -g smi.cli
 
 Usage:
 
@@ -47,6 +47,10 @@ Declaring dependencies
 
 	{
 		"upstream": {
+	        "packages": {
+	        	// Auto-link dependencies
+	            "./local": "./../common/*"
+	        },
 			"catalogs": {
 				"<id>": "<locator>",
 				"archiveA": "./catalog.json"
@@ -77,13 +81,29 @@ For a complete resource of supported *locators* see [./test/assets](https://gith
 Installing Dependencies
 -----------------------
 
+By calling `smi` directly from the command-line:
+
 	smi install
+
+A typical approach is to integrate it into the installation procedure of an existing `npm` package which can be done as follows.
+
+`package.json`
+
+	{
+		"dependencies": {
+			"smi.cli": "~0.4.0"
+		},
+		"scripts": {
+			"install": "./node_modules/.bin/smi install"
+		}
+	}
 
 
 TODO
 ====
 
   * Wrap various third party installers (e.g. `bower`, `composer`)
+  * Resolve version selectors into release streams
   * Write install history
   * Write more meta data
   * Cleanup
