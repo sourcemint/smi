@@ -25,6 +25,8 @@ Features:
   * Reference assets using URIs
   * Reference assets using catalogs
   * Embeddable into NodeJS apps
+  * Circular dependencies are no problem
+  * Compose arbitrary namespaces
 
 
 Install
