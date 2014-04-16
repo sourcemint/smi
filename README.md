@@ -36,6 +36,10 @@ Usage:
 
 	smi -h
 
+Test:
+
+	npm test
+
 
 Docs
 ====

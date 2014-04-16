@@ -5,31 +5,31 @@
                 "files": {
                     "smi-test-package-1": {
                         "files": {
-                            ".smi.json": "889220b91726c623c98b9a56aa75b000",
+                            ".smi.json": "deb0b8f325d8cd6ecb18a6a1abe351cb",
                             "package.json": "5d08d6b910b455b8f97424245889d226"
                         },
-                        "hash": "c2334cdb4d50d29252a6b37ca4e09185"
+                        "hash": "b02c3cff7f9808683a88eba681877752"
                     },
                     "smi-test-package-1-8fa2dce": {
                         "files": {
-                            ".smi.json": "889220b91726c623c98b9a56aa75b000",
+                            ".smi.json": "deb0b8f325d8cd6ecb18a6a1abe351cb",
                             "package.json": "5d08d6b910b455b8f97424245889d226"
                         },
-                        "hash": "c2334cdb4d50d29252a6b37ca4e09185"
+                        "hash": "b02c3cff7f9808683a88eba681877752"
                     },
                     "smi-test-package-1-8fa2dce.tgz": "77dd6dc731b7b98799aff3adecbd9ae2",
                     "smi-test-package-1-8fa2dce~extracted": {
                         "files": {
-                            ".smi.json": "889220b91726c623c98b9a56aa75b000",
+                            ".smi.json": "deb0b8f325d8cd6ecb18a6a1abe351cb",
                             "package.json": "5d08d6b910b455b8f97424245889d226"
                         },
-                        "hash": "c2334cdb4d50d29252a6b37ca4e09185"
+                        "hash": "b02c3cff7f9808683a88eba681877752"
                     }
                 },
-                "hash": "8bdc21624f7be5010ff644077ef0d468"
+                "hash": "daf491933280413b92d58304d25019e8"
             }
         },
-        "hash": "69ca0ab9dc0aaf97d79d78c43621c06f"
+        "hash": "12974afd71cfc18ebc02971fe92b85f3"
     },
     "info": {
         "./dependencies/smi-test-package-1": {
@@ -39,6 +39,7 @@
                         "name": "smi-test-package-1",
                         "version": "0.1.0"
                     },
+                    "install": false,
                     "location": "https://github.com/sourcemint/smi-test-package-1/archive/v0.1.0.tar.gz",
                     "smi": {
                         "basePath": "./dependencies/smi-test-package-1-8fa2dce",
