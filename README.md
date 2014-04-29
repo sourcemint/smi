@@ -97,7 +97,7 @@ A typical approach is to integrate it into the installation procedure of an exis
 
 	{
 		"dependencies": {
-			"smi.cli": "~0.4.0"
+			"smi.cli": "~0.9.0"
 		},
 		"scripts": {
 			"install": "./node_modules/.bin/smi install"
