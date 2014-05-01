@@ -52,7 +52,8 @@ if (require.main === module) {
                     		}
 							return SMI.install(basePath, descriptorPath, function(err, info) {
 								if (err) return callback(err);
-								process.stdout.write('<wf id="info">' + JSON.stringify(info, null, 4) + '</wf>');
+								process.stdout.write('<wf id="info">' + JSON.stringify(info, null, 4) + '</wf>' + "\n");
+                                console.log("smi install success!".green);
 								return callback(null);
 							});
                     	});
