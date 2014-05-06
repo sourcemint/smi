@@ -5,6 +5,7 @@ const Q = require("q");
 const COMMANDER = require("commander");
 const COLORS = require("colors");
 const SMI = require("../lib/smi");
+const SPAWN = require("child_process").spawn;
 
 
 COLORS.setTheme({
@@ -40,12 +41,19 @@ if (require.main === module) {
 
             program
                 .command("install")
+                .option("--npm", "Call 'npm install' after smi finishes")
                 .description("Install packages")
-                .action(function(path) {
+                .action(function(options) {
                     acted = true;
                     var basePath = process.cwd();
                     var descriptorPath = PATH.join(basePath, "package.json");
                     return Q.denodeify(function(callback) {
+
+                        if (options.npm && process.env._SMI_NPM_INSTALL_FLAG) {
+                            console.log(("Skip `npm install` as we are already running `npm install` triggered by `smi install`!").yellow);
+                            return callback(null);
+                        }
+
                     	return FS.exists(descriptorPath, function(exists) {
                     		if (!exists) {
                     			return callback("No descriptor found at: " + descriptorPath);
@@ -53,8 +61,45 @@ if (require.main === module) {
 							return SMI.install(basePath, descriptorPath, function(err, info) {
 								if (err) return callback(err);
 								process.stdout.write('<wf id="info">' + JSON.stringify(info, null, 4) + '</wf>' + "\n");
+
                                 console.log("smi install success!".green);
-								return callback(null);
+
+                                function npmInstall(callback) {
+                                    if (!options.npm) return callback(null);
+
+                                    var env = {};
+                                    for (var name in process.env) {
+                                        env[name] = process.env[name];
+                                    }
+                                    env._SMI_NPM_INSTALL_FLAG = "1";
+
+                                    console.log(("Calling `npm install` for: " + basePath).magenta);
+                                    var proc = SPAWN("npm", [
+                                        "install"
+                                    ], {
+                                        cwd: basePath,
+                                        env: env
+                                    });
+                                    proc.stdout.on('data', function (data) {
+                                        process.stdout.write(data);
+                                    });
+                                    proc.stderr.on('data', function (data) {
+                                        process.stderr.write(data);
+                                    });
+                                    return proc.on('close', function (code) {
+                                        if (code !== 0) {
+                                            console.error("ERROR: `npm install` exited with code '" + code + "'");
+                                            return callback(new Error("`npm install` script exited with code '" + code + "'"));
+                                        }
+                                        console.log(("`npm install` for '" + basePath + "' done!").green);
+                                        return callback(null);
+                                    });
+                                }
+
+                                return npmInstall(function(err) {
+                                    if (err) return callback(err);
+                                    return callback(null);
+                                });
 							});
                     	});
                     })().then(function() {
