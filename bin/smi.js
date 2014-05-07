@@ -35,6 +35,7 @@ if (require.main === module) {
                 .version(JSON.parse(FS.readFileSync(PATH.join(__dirname, "../package.json"))).version)
                 .option("-v, --verbose", "Show verbose progress")
                 .option("--debug", "Show debug output")
+                .option("--link-smi", "Link all dependencies called 'smi.cli' to our smi codebase")
                 .option("-f, --force", "Force an operation when it would normally be skipped");
 
             var acted = false;
@@ -58,7 +59,10 @@ if (require.main === module) {
                     		if (!exists) {
                     			return callback("No descriptor found at: " + descriptorPath);
                     		}
-							return SMI.install(basePath, descriptorPath, function(err, info) {
+                            var opts = {
+                                linkSmi: (process.env.SMI_OPT_LINK_SMI === "1" || program.linkSmi === true)
+                            };
+							return SMI.install(basePath, descriptorPath, opts, function(err, info) {
 								if (err) return callback(err);
 								process.stdout.write('<wf id="info">' + JSON.stringify(info, null, 4) + '</wf>' + "\n");
 
@@ -72,6 +76,7 @@ if (require.main === module) {
                                         env[name] = process.env[name];
                                     }
                                     env._SMI_NPM_INSTALL_FLAG = "1";
+                                    env.SMI_OPT_LINK_SMI = opts.linkSmi ? "1" : "0";
 
                                     console.log(("Calling `npm install` for: " + basePath).magenta);
                                     var proc = SPAWN("npm", [
