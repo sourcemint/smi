@@ -7,10 +7,10 @@
                         "files": {
                             "scripts": {
                                 "files": {
-                                    ".smi.json": "ea6087ebc3b5f83b6058f36f31cfd9b8",
+                                    ".smi.json": "0e094fdeecbb30375eea46ca4a5d54b4",
                                     "postdeploy.sh": "56158525548d042459fd6880188e2138"
                                 },
-                                "hash": "d2652a668cbdf19049e61481e35f6f16"
+                                "hash": "55a7c0c0fb32d04a096d04b06a7c662a"
                             },
                             "source": {
                                 "files": {
@@ -40,16 +40,16 @@
                                 "hash": "34fb8508764fd533995daf12e9ede16e"
                             }
                         },
-                        "hash": "d9fe86e25763f9e68d50a1842ccf265d"
+                        "hash": "247d728bc5d0563d0318050075e28dd2"
                     },
                     "smi-test-package-2-b767415": {
                         "files": {
                             "scripts": {
                                 "files": {
-                                    ".smi.json": "ea6087ebc3b5f83b6058f36f31cfd9b8",
+                                    ".smi.json": "0e094fdeecbb30375eea46ca4a5d54b4",
                                     "postdeploy.sh": "56158525548d042459fd6880188e2138"
                                 },
-                                "hash": "d2652a668cbdf19049e61481e35f6f16"
+                                "hash": "55a7c0c0fb32d04a096d04b06a7c662a"
                             },
                             "source": {
                                 "files": {
@@ -79,13 +79,13 @@
                                 "hash": "34fb8508764fd533995daf12e9ede16e"
                             }
                         },
-                        "hash": "d9fe86e25763f9e68d50a1842ccf265d"
+                        "hash": "247d728bc5d0563d0318050075e28dd2"
                     }
                 },
-                "hash": "6302592a992fab95c51241b2204c9824"
+                "hash": "f91505e8b5aca7a80fe34ab51c5b59e5"
             }
         },
-        "hash": "129bd39f14e1c1620cb5802b001783f5"
+        "hash": "029668e56af4ccca8446cc24ca527a15"
     },
     "info": {}
 }

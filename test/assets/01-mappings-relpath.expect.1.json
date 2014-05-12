@@ -6,38 +6,39 @@
                     "smi-test-package-1": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "3f0cee45cea83aea3e9724193a4914d7",
+                            ".smi.json": "bd8ac903032866e99c5ae55e1f6383bb",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "c8a1b67a6207bebf42631f7ffb6861b4"
+                        "hash": "0fda827279172aba510187a9f25dcbb3"
                     },
                     "smi-test-package-1-cdeaa1d": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "3f0cee45cea83aea3e9724193a4914d7",
+                            ".smi.json": "bd8ac903032866e99c5ae55e1f6383bb",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "c8a1b67a6207bebf42631f7ffb6861b4"
+                        "hash": "0fda827279172aba510187a9f25dcbb3"
                     },
                     "smi-test-package-1-cdeaa1d.tgz": "d5d2b1c3a47575605de28ef77dd84fae",
                     "smi-test-package-1-cdeaa1d~extracted": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "3f0cee45cea83aea3e9724193a4914d7",
+                            ".smi.json": "bd8ac903032866e99c5ae55e1f6383bb",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "c8a1b67a6207bebf42631f7ffb6861b4"
+                        "hash": "0fda827279172aba510187a9f25dcbb3"
                     }
                 },
-                "hash": "36904bb40cac38dcc19716e708fb76cb"
+                "hash": "aab1d40fb06e9cc55fb9241fde6da275"
             }
         },
-        "hash": "9f566401e8ebf20947766ac153fe87d0"
+        "hash": "f5d23228cb50e6d6480b4cebd68ff898"
     },
     "info": {
         "./dependencies/smi-test-package-1": {
             "aspects": {
                 "": {
+                    "dependsIndex": 0,
                     "descriptor": {
                         "name": "smi-test-package-1",
                         "version": "0.2.0"

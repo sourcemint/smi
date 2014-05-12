@@ -7,10 +7,10 @@
                         "files": {
                             "scripts": {
                                 "files": {
-                                    ".smi.json": "ea6087ebc3b5f83b6058f36f31cfd9b8",
+                                    ".smi.json": "0e094fdeecbb30375eea46ca4a5d54b4",
                                     "postdeploy.sh": "56158525548d042459fd6880188e2138"
                                 },
-                                "hash": "d2652a668cbdf19049e61481e35f6f16"
+                                "hash": "55a7c0c0fb32d04a096d04b06a7c662a"
                             },
                             "source": {
                                 "files": {
@@ -34,16 +34,16 @@
                                 "hash": "a97255e713fba67c3e33f37c077587b4"
                             }
                         },
-                        "hash": "c8cf67cc0c6f0af3d6521f81a8c63d67"
+                        "hash": "02af5e97ac7f8bf99f2eab064dbaca29"
                     },
                     "smi-test-package-2-b767415": {
                         "files": {
                             "scripts": {
                                 "files": {
-                                    ".smi.json": "ea6087ebc3b5f83b6058f36f31cfd9b8",
+                                    ".smi.json": "0e094fdeecbb30375eea46ca4a5d54b4",
                                     "postdeploy.sh": "56158525548d042459fd6880188e2138"
                                 },
-                                "hash": "d2652a668cbdf19049e61481e35f6f16"
+                                "hash": "55a7c0c0fb32d04a096d04b06a7c662a"
                             },
                             "source": {
                                 "files": {
@@ -67,18 +67,19 @@
                                 "hash": "a97255e713fba67c3e33f37c077587b4"
                             }
                         },
-                        "hash": "c8cf67cc0c6f0af3d6521f81a8c63d67"
+                        "hash": "02af5e97ac7f8bf99f2eab064dbaca29"
                     }
                 },
-                "hash": "66782caf732116e0444f2c79c7b3f6b6"
+                "hash": "ab1d1ed1dd4418d9ed4930ddbe8c8f74"
             }
         },
-        "hash": "31b26a5369712cc33de6d48b08dd046a"
+        "hash": "5a10e29b88f1a8a91453083cb1e9f139"
     },
     "info": {
         "./dependencies/smi-test-package-2": {
             "aspects": {
                 "scripts": {
+                    "dependsIndex": 18,
                     "descriptor": {},
                     "install": false,
                     "location": "https://github.com/sourcemint/smi-test-package-2/archive/v0.4.0.tar.gz",
