@@ -10,6 +10,10 @@
                                     ".gitignore": "f2f73cc697e5cc0e531fe9f5504957d4",
                                     ".smi.json": "1522fd9c58e87eb2533bc45bd05c9ace",
                                     "module.js": "14bb5ce40b0ec78d2d3d5ec5f19566cf",
+                                    "node_modules": {
+                                        "files": {},
+                                        "hash": ""
+                                    },
                                     "package.json": "a662fb565ec21410d328f2d81e7427a0"
                                 },
                                 "hash": "97e3dd9dee997c06358c77293d77ba3d"
@@ -39,6 +43,10 @@
                                     ".gitignore": "f2f73cc697e5cc0e531fe9f5504957d4",
                                     ".smi.json": "1522fd9c58e87eb2533bc45bd05c9ace",
                                     "module.js": "14bb5ce40b0ec78d2d3d5ec5f19566cf",
+                                    "node_modules": {
+                                        "files": {},
+                                        "hash": ""
+                                    },
                                     "package.json": "a662fb565ec21410d328f2d81e7427a0"
                                 },
                                 "hash": "97e3dd9dee997c06358c77293d77ba3d"

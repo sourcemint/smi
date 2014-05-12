@@ -6,41 +6,41 @@
                     "smi-test-package-1": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "1a9818701e4f51b1ed8c22181783f38b",
+                            ".smi.json": "3f0cee45cea83aea3e9724193a4914d7",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "43cd41aec8f4f554047ecfffa5377f09"
+                        "hash": "c8a1b67a6207bebf42631f7ffb6861b4"
                     },
                     "smi-test-package-1-cdeaa1d": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "1a9818701e4f51b1ed8c22181783f38b",
+                            ".smi.json": "3f0cee45cea83aea3e9724193a4914d7",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "43cd41aec8f4f554047ecfffa5377f09"
+                        "hash": "c8a1b67a6207bebf42631f7ffb6861b4"
                     },
                     "smi-test-package-1-cdeaa1d.tgz": "d5d2b1c3a47575605de28ef77dd84fae",
                     "smi-test-package-1-cdeaa1d~extracted": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "1a9818701e4f51b1ed8c22181783f38b",
+                            ".smi.json": "3f0cee45cea83aea3e9724193a4914d7",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "43cd41aec8f4f554047ecfffa5377f09"
+                        "hash": "c8a1b67a6207bebf42631f7ffb6861b4"
                     },
                     "smi-test-package-2": {
                         "files": {
                             "scripts": {
                                 "files": {
-                                    ".smi.json": "120d2c3c777379f3df25752c52e53296",
+                                    ".smi.json": "ea6087ebc3b5f83b6058f36f31cfd9b8",
                                     "postdeploy.sh": "56158525548d042459fd6880188e2138"
                                 },
-                                "hash": "97a732700a3015e8d5f0e039ea57bd66"
+                                "hash": "d2652a668cbdf19049e61481e35f6f16"
                             },
                             "scripts.tgz": "45187c32a712727465d7811729a16c2a",
                             "scripts~extracted": {
                                 "files": {
-                                    ".smi.json": "120d2c3c777379f3df25752c52e53296",
+                                    ".smi.json": "ea6087ebc3b5f83b6058f36f31cfd9b8",
                                     "scripts": {
                                         "files": {
                                             "postdeploy.sh": "56158525548d042459fd6880188e2138"
@@ -48,7 +48,7 @@
                                         "hash": "3f680acdc4a175fffda2015f6b79747a"
                                     }
                                 },
-                                "hash": "a9921d17b2a24fa29f81ed557f8fff78"
+                                "hash": "31879136de9247d7191d84b4db60df20"
                             },
                             "source": {
                                 "files": {
@@ -60,16 +60,16 @@
                                             "smi-test-package-1": {
                                                 "files": {
                                                     ".npmignore": "a171e2c1936c2a289023372cc76e73ed",
-                                                    "package.json": "be56c20139d2c325ca62230918de68a3"
+                                                    "package.json": "26f5df0368d9961d9e08664ad8853e19"
                                                 },
-                                                "hash": "cdf05b96610b01ba6bc0c16974a80042"
+                                                "hash": "0dd0e7afc820e9dec9cbcc0821fab198"
                                             }
                                         },
-                                        "hash": "b99c7d8d819cce512df46df6a61d7b2b"
+                                        "hash": "312db50a06d5942ce9c8edbbb1980162"
                                     },
                                     "package.json": "a662fb565ec21410d328f2d81e7427a0"
                                 },
-                                "hash": "322cc33d9286c0485ec8d90f5e6a0181"
+                                "hash": "a97255e713fba67c3e33f37c077587b4"
                             },
                             "source.tgz": "45187c32a712727465d7811729a16c2a",
                             "source~extracted": {
@@ -87,21 +87,21 @@
                                 "hash": "c3029d094abbc956756146a8167f6d39"
                             }
                         },
-                        "hash": "bf27c1645e7e0ca26820afb1607f4869"
+                        "hash": "3df351ee08dec78cd54c8ff2beb1ad73"
                     },
                     "smi-test-package-2-b767415": {
                         "files": {
                             "scripts": {
                                 "files": {
-                                    ".smi.json": "120d2c3c777379f3df25752c52e53296",
+                                    ".smi.json": "ea6087ebc3b5f83b6058f36f31cfd9b8",
                                     "postdeploy.sh": "56158525548d042459fd6880188e2138"
                                 },
-                                "hash": "97a732700a3015e8d5f0e039ea57bd66"
+                                "hash": "d2652a668cbdf19049e61481e35f6f16"
                             },
                             "scripts.tgz": "45187c32a712727465d7811729a16c2a",
                             "scripts~extracted": {
                                 "files": {
-                                    ".smi.json": "120d2c3c777379f3df25752c52e53296",
+                                    ".smi.json": "ea6087ebc3b5f83b6058f36f31cfd9b8",
                                     "scripts": {
                                         "files": {
                                             "postdeploy.sh": "56158525548d042459fd6880188e2138"
@@ -109,7 +109,7 @@
                                         "hash": "3f680acdc4a175fffda2015f6b79747a"
                                     }
                                 },
-                                "hash": "a9921d17b2a24fa29f81ed557f8fff78"
+                                "hash": "31879136de9247d7191d84b4db60df20"
                             },
                             "source": {
                                 "files": {
@@ -121,16 +121,16 @@
                                             "smi-test-package-1": {
                                                 "files": {
                                                     ".npmignore": "a171e2c1936c2a289023372cc76e73ed",
-                                                    "package.json": "be56c20139d2c325ca62230918de68a3"
+                                                    "package.json": "26f5df0368d9961d9e08664ad8853e19"
                                                 },
-                                                "hash": "cdf05b96610b01ba6bc0c16974a80042"
+                                                "hash": "0dd0e7afc820e9dec9cbcc0821fab198"
                                             }
                                         },
-                                        "hash": "b99c7d8d819cce512df46df6a61d7b2b"
+                                        "hash": "312db50a06d5942ce9c8edbbb1980162"
                                     },
                                     "package.json": "a662fb565ec21410d328f2d81e7427a0"
                                 },
-                                "hash": "322cc33d9286c0485ec8d90f5e6a0181"
+                                "hash": "a97255e713fba67c3e33f37c077587b4"
                             },
                             "source.tgz": "45187c32a712727465d7811729a16c2a",
                             "source~extracted": {
@@ -148,13 +148,13 @@
                                 "hash": "c3029d094abbc956756146a8167f6d39"
                             }
                         },
-                        "hash": "bf27c1645e7e0ca26820afb1607f4869"
+                        "hash": "3df351ee08dec78cd54c8ff2beb1ad73"
                     }
                 },
-                "hash": "eabda4ac56764b367855fa1bf14114f9"
+                "hash": "cf001ed52f9c9d8c6cf3f5aa07daa416"
             }
         },
-        "hash": "e0fcbb7e2889ce60a1e988ce06ce27a5"
+        "hash": "5486e74cb0e6b6c5e31d45f006869322"
     },
     "info": {}
 }
