@@ -59,17 +59,18 @@
                                         "files": {
                                             "smi-test-package-1": {
                                                 "files": {
-                                                    ".npmignore": "a171e2c1936c2a289023372cc76e73ed",
-                                                    "package.json": "26f5df0368d9961d9e08664ad8853e19"
+                                                    ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
+                                                    ".smi.json": "bd8ac903032866e99c5ae55e1f6383bb",
+                                                    "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                                                 },
-                                                "hash": "0dd0e7afc820e9dec9cbcc0821fab198"
+                                                "hash": "0fda827279172aba510187a9f25dcbb3"
                                             }
                                         },
-                                        "hash": "312db50a06d5942ce9c8edbbb1980162"
+                                        "hash": "abab49b658496797b8e54a348b2372c5"
                                     },
                                     "package.json": "a662fb565ec21410d328f2d81e7427a0"
                                 },
-                                "hash": "a97255e713fba67c3e33f37c077587b4"
+                                "hash": "48e265bedbd78caf60f5c8a1f5028c8a"
                             },
                             "source.tgz": "45187c32a712727465d7811729a16c2a",
                             "source~extracted": {
@@ -87,7 +88,7 @@
                                 "hash": "c3029d094abbc956756146a8167f6d39"
                             }
                         },
-                        "hash": "d61e20045b66d1fad189bdac0f3427ee"
+                        "hash": "cd5d255615944c7317e0a6e29f8265f3"
                     },
                     "smi-test-package-2-b767415": {
                         "files": {
@@ -120,17 +121,18 @@
                                         "files": {
                                             "smi-test-package-1": {
                                                 "files": {
-                                                    ".npmignore": "a171e2c1936c2a289023372cc76e73ed",
-                                                    "package.json": "26f5df0368d9961d9e08664ad8853e19"
+                                                    ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
+                                                    ".smi.json": "bd8ac903032866e99c5ae55e1f6383bb",
+                                                    "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                                                 },
-                                                "hash": "0dd0e7afc820e9dec9cbcc0821fab198"
+                                                "hash": "0fda827279172aba510187a9f25dcbb3"
                                             }
                                         },
-                                        "hash": "312db50a06d5942ce9c8edbbb1980162"
+                                        "hash": "abab49b658496797b8e54a348b2372c5"
                                     },
                                     "package.json": "a662fb565ec21410d328f2d81e7427a0"
                                 },
-                                "hash": "a97255e713fba67c3e33f37c077587b4"
+                                "hash": "48e265bedbd78caf60f5c8a1f5028c8a"
                             },
                             "source.tgz": "45187c32a712727465d7811729a16c2a",
                             "source~extracted": {
@@ -148,13 +150,13 @@
                                 "hash": "c3029d094abbc956756146a8167f6d39"
                             }
                         },
-                        "hash": "d61e20045b66d1fad189bdac0f3427ee"
+                        "hash": "cd5d255615944c7317e0a6e29f8265f3"
                     }
                 },
-                "hash": "09e7ef983e1068f00ea439ac3f4da369"
+                "hash": "b4fefec982fe3c954384064fd73ab6dc"
             }
         },
-        "hash": "c322a3dc149a14d6e8ddb5e03b02c065"
+        "hash": "cfc3bdfff2d247733ee92895c11bf0f7"
     },
     "info": {
         "./dependencies/smi-test-package-1": {

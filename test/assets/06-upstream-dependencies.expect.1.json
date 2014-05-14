@@ -21,20 +21,21 @@
                                         "files": {
                                             "smi-test-package-1": {
                                                 "files": {
-                                                    ".npmignore": "a171e2c1936c2a289023372cc76e73ed",
-                                                    "package.json": "26f5df0368d9961d9e08664ad8853e19"
+                                                    ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
+                                                    ".smi.json": "bd8ac903032866e99c5ae55e1f6383bb",
+                                                    "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                                                 },
-                                                "hash": "0dd0e7afc820e9dec9cbcc0821fab198"
+                                                "hash": "0fda827279172aba510187a9f25dcbb3"
                                             }
                                         },
-                                        "hash": "312db50a06d5942ce9c8edbbb1980162"
+                                        "hash": "abab49b658496797b8e54a348b2372c5"
                                     },
                                     "package.json": "a662fb565ec21410d328f2d81e7427a0"
                                 },
-                                "hash": "a97255e713fba67c3e33f37c077587b4"
+                                "hash": "48e265bedbd78caf60f5c8a1f5028c8a"
                             }
                         },
-                        "hash": "02af5e97ac7f8bf99f2eab064dbaca29"
+                        "hash": "8a59103e94c48355efd88ef682a41bb6"
                     },
                     "smi-test-package-2-b767415": {
                         "files": {
@@ -54,26 +55,27 @@
                                         "files": {
                                             "smi-test-package-1": {
                                                 "files": {
-                                                    ".npmignore": "a171e2c1936c2a289023372cc76e73ed",
-                                                    "package.json": "26f5df0368d9961d9e08664ad8853e19"
+                                                    ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
+                                                    ".smi.json": "bd8ac903032866e99c5ae55e1f6383bb",
+                                                    "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                                                 },
-                                                "hash": "0dd0e7afc820e9dec9cbcc0821fab198"
+                                                "hash": "0fda827279172aba510187a9f25dcbb3"
                                             }
                                         },
-                                        "hash": "312db50a06d5942ce9c8edbbb1980162"
+                                        "hash": "abab49b658496797b8e54a348b2372c5"
                                     },
                                     "package.json": "a662fb565ec21410d328f2d81e7427a0"
                                 },
-                                "hash": "a97255e713fba67c3e33f37c077587b4"
+                                "hash": "48e265bedbd78caf60f5c8a1f5028c8a"
                             }
                         },
-                        "hash": "02af5e97ac7f8bf99f2eab064dbaca29"
+                        "hash": "8a59103e94c48355efd88ef682a41bb6"
                     }
                 },
-                "hash": "ab1d1ed1dd4418d9ed4930ddbe8c8f74"
+                "hash": "075a1d0704bac9ee88ea5ece0189fe9f"
             }
         },
-        "hash": "5a10e29b88f1a8a91453083cb1e9f139"
+        "hash": "3429eda1c51486879edee64ffede2601"
     },
     "info": {
         "./dependencies/smi-test-package-2": {
