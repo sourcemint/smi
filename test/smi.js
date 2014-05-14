@@ -27,6 +27,8 @@ describe('smi', function() {
 
 		var testName = filename.replace(/\.smi\.json$/, "");
 
+//if (!/^11/.test(testName)) return;
+
     	it(testName, function(callback) {
 
 			var resultPath = PATH.join(tmpPath, testName);
