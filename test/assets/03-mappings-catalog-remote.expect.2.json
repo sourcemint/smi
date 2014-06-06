@@ -1,35 +1,44 @@
 {
     "hashes": {
         "files": {
+            "_packages": {
+                "files": {
+                    "03-mappings-catalog-remote.catalog.json": "fe71bb11ecf514be5c5615cda184f473",
+                    "03-mappings-catalog-remote.catalog.json~~meta": "01ec885f2bcd29286b6e433ef111bbf5"
+                },
+                "hash": "4e3ab0164384bcac027ff8600aaef7cb"
+            },
             "dependencies": {
                 "files": {
                     "smi-test-package-1": {
                         "files": {
-                            ".smi.json": "47ec7a03342728543309b52b2ab3633f",
+                            ".smi.json": "bdc5902e8b9bf6f9747d236f1f90abf4",
+                            "package.1.json": "3662af6fb7741a537cd609dc4c74ab40",
                             "package.json": "5d08d6b910b455b8f97424245889d226"
                         },
-                        "hash": "149dcccd5305752dc0a08e645e3b75f2"
+                        "hash": "6d0e60555cff81c4e1cae7633226cae1"
                     },
                     "smi-test-package-1-8fa2dce": {
                         "files": {
-                            ".smi.json": "47ec7a03342728543309b52b2ab3633f",
+                            ".smi.json": "bdc5902e8b9bf6f9747d236f1f90abf4",
+                            "package.1.json": "3662af6fb7741a537cd609dc4c74ab40",
                             "package.json": "5d08d6b910b455b8f97424245889d226"
                         },
-                        "hash": "149dcccd5305752dc0a08e645e3b75f2"
+                        "hash": "6d0e60555cff81c4e1cae7633226cae1"
                     },
                     "smi-test-package-1-8fa2dce.tgz": "77dd6dc731b7b98799aff3adecbd9ae2",
                     "smi-test-package-1-8fa2dce~extracted": {
                         "files": {
-                            ".smi.json": "47ec7a03342728543309b52b2ab3633f",
+                            ".smi.json": "bdc5902e8b9bf6f9747d236f1f90abf4",
                             "package.json": "5d08d6b910b455b8f97424245889d226"
                         },
-                        "hash": "149dcccd5305752dc0a08e645e3b75f2"
+                        "hash": "246df680c6221d67b70d2f136087869b"
                     }
                 },
-                "hash": "d98b8644657f8525ef646b5001db5684"
+                "hash": "b9532b1c33b52bbefd377a558f3fe6e9"
             }
         },
-        "hash": "ec02ba7d672cd0a5498e77ddff624b11"
+        "hash": "e58e43b8c47d64df6aa9d1e43870f048"
     },
     "info": {}
 }

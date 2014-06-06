@@ -27,14 +27,17 @@ describe('smi', function() {
 
 		var testName = filename.replace(/\.smi\.json$/, "");
 
-//if (!/^11/.test(testName)) return;
+//if (!/^10/.test(testName)) return;
 
     	it(testName, function(callback) {
 
 			var resultPath = PATH.join(tmpPath, testName);
 
     		function run(expectPath, callback) {
-	    		return SMI.install(resultPath, PATH.join(assetBasePath, filename), function(err, info) {
+	    		return SMI.install(resultPath, PATH.join(assetBasePath, filename), {
+	    			verbose: false,
+	    			debug: false
+	    		}, function(err, info) {
 	    			if (err) return callback(err);
 					return DIRSUM.digest(resultPath, function(err, hashes) {
 						if (err) return callback(err);
