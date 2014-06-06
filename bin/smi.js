@@ -33,7 +33,8 @@ if (require.main === module) {
 
             program
                 .version(JSON.parse(FS.readFileSync(PATH.join(__dirname, "../package.json"))).version)
-                .option("-v, --verbose", "Show verbose progress")
+                .option("-s, --silent", "Don't log anything")
+                .option("-v, --verbose", "Log verbose progress messages")
                 .option("--debug", "Show debug output and serialize all otherwise parallel code paths")
                 .option("--link-smi", "Link all dependencies called 'smi.cli' to our smi codebase")
                 .option("-f, --force", "Force an operation when it would normally be skipped");
@@ -61,13 +62,18 @@ if (require.main === module) {
                     		}
                             var opts = {
                                 debug: program.debug || false,
+                                verbose: program.verbose || program.debug || false,
+                                silent: program.silent || false,
                                 linkSmi: (process.env.SMI_OPT_LINK_SMI === "1" || program.linkSmi === true)
                             };
 							return SMI.install(basePath, descriptorPath, opts, function(err, info) {
 								if (err) return callback(err);
-								process.stdout.write('<wf id="info">' + JSON.stringify(info, null, 4) + '</wf>' + "\n");
 
-                                console.log("smi install success!".green);
+                                //process.stdout.write('<wf id="info">' + JSON.stringify(info, null, 4) + '</wf>' + "\n");
+
+                                if (opts.verbose) {
+                                    console.log("smi install success!".green);
+                                }
 
                                 function npmInstall(callback) {
                                     if (!options.npm) return callback(null);
