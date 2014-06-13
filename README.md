@@ -27,6 +27,8 @@ Features:
   * Embeddable into NodeJS apps
   * Circular dependencies are no problem
   * Compose arbitrary namespaces
+  * Environment specific dependencies
+  * Extract many different types of archives
 
 
 Install
