@@ -1,40 +1,40 @@
 {
     "hashes": {
         "files": {
-            "dependencies": {
+            "_packages": {
                 "files": {
-                    "smi-test-package-1": {
+                    "pkg2": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "e3e980a20d6a156ca17b284d2c7a4ade",
+                            ".smi.json": "1a38203bc6a53f94c353af165eb828a4",
                             "package.1.json": "d0e2dcf597f80234d5c26638a75d579b",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "2052105aa23c28a4fe31721eed878b2d"
+                        "hash": "437fd18ebd1eb7a7aced9a0ab92f4f3c"
                     },
-                    "smi-test-package-1-cdeaa1d": {
+                    "pkg2-cdeaa1d": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "e3e980a20d6a156ca17b284d2c7a4ade",
+                            ".smi.json": "1a38203bc6a53f94c353af165eb828a4",
                             "package.1.json": "d0e2dcf597f80234d5c26638a75d579b",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "2052105aa23c28a4fe31721eed878b2d"
+                        "hash": "437fd18ebd1eb7a7aced9a0ab92f4f3c"
                     },
-                    "smi-test-package-1-cdeaa1d.tgz": "d5d2b1c3a47575605de28ef77dd84fae",
-                    "smi-test-package-1-cdeaa1d~extracted": {
+                    "pkg2-cdeaa1d.tgz": "d5d2b1c3a47575605de28ef77dd84fae",
+                    "pkg2-cdeaa1d~extracted": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "e3e980a20d6a156ca17b284d2c7a4ade",
+                            ".smi.json": "1a38203bc6a53f94c353af165eb828a4",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "7ca7cb4e485ce9039a851f2a2a34dc71"
+                        "hash": "a64b82f6a49432f8063d52441132ec52"
                     }
                 },
-                "hash": "000354e94ac0be45522071f0a344a474"
+                "hash": "5822b5cedd6ec07920c0cfb487b9e3db"
             }
         },
-        "hash": "764a36dc0b7003a69b45257b0998ff06"
+        "hash": "12e12abd81e4883813fe69942603adca"
     },
     "info": {}
 }

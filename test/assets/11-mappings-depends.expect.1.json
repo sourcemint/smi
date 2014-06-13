@@ -225,6 +225,13 @@
                     "subpath": {}
                 }
             },
+            "descriptor": {
+                "config": {
+                    "smi.cli": {
+                        "aspects": {}
+                    }
+                }
+            },
             "installedPath": "./_packages/smi-test-package-1-de6f087",
             "livePath": "./_packages/smi-test-package-1"
         },
@@ -252,6 +259,13 @@
                     "subpath": {}
                 }
             },
+            "descriptor": {
+                "config": {
+                    "smi.cli": {
+                        "aspects": {}
+                    }
+                }
+            },
             "installedPath": "./_packages/smi-test-package-2-de6f087",
             "livePath": "./_packages/smi-test-package-2"
         },
@@ -277,6 +291,13 @@
                         "revision": "de6f087b3c355566aecfa7f3e0741ca6775d66e5"
                     },
                     "subpath": {}
+                }
+            },
+            "descriptor": {
+                "config": {
+                    "smi.cli": {
+                        "aspects": {}
+                    }
                 }
             },
             "installedPath": "./_packages/smi-test-package-3-de6f087",

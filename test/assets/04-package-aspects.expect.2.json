@@ -5,13 +5,13 @@
                 "files": {
                     "smi-test-package-2": {
                         "files": {
+                            "package.json": "8a8698d972f8d876e57808e32142c5db",
                             "scripts": {
                                 "files": {
                                     ".smi.json": "185a9b10f704fdbb3e7b397f7a53b879",
-                                    "package.json": "8a8698d972f8d876e57808e32142c5db",
                                     "postdeploy.sh": "56158525548d042459fd6880188e2138"
                                 },
-                                "hash": "339cec3e74ad9e3a87c35d9455fcc02c"
+                                "hash": "01bb41e47600db3fa2515cc871d6bf00"
                             },
                             "scripts.tgz": "45187c32a712727465d7811729a16c2a",
                             "scripts~extracted": {
@@ -43,10 +43,9 @@
                                         },
                                         "hash": "312db50a06d5942ce9c8edbbb1980162"
                                     },
-                                    "package.1.json": "dca0d055232c6de74eec9820cce0614f",
                                     "package.json": "a662fb565ec21410d328f2d81e7427a0"
                                 },
-                                "hash": "49639b64bd743fe02a8e73f577644ece"
+                                "hash": "aa632b5dbd1984bc01abc2042012bd3f"
                             },
                             "source.tgz": "45187c32a712727465d7811729a16c2a",
                             "source~extracted": {
@@ -64,17 +63,17 @@
                                 "hash": "56a1681961b3bf15d56161e913012858"
                             }
                         },
-                        "hash": "ca3cd8d7396f18146f629d73189fa1b5"
+                        "hash": "3e6e4865c623fe1b7fb93769c258e0ff"
                     },
                     "smi-test-package-2-b767415": {
                         "files": {
+                            "package.json": "8a8698d972f8d876e57808e32142c5db",
                             "scripts": {
                                 "files": {
                                     ".smi.json": "185a9b10f704fdbb3e7b397f7a53b879",
-                                    "package.json": "8a8698d972f8d876e57808e32142c5db",
                                     "postdeploy.sh": "56158525548d042459fd6880188e2138"
                                 },
-                                "hash": "339cec3e74ad9e3a87c35d9455fcc02c"
+                                "hash": "01bb41e47600db3fa2515cc871d6bf00"
                             },
                             "scripts.tgz": "45187c32a712727465d7811729a16c2a",
                             "scripts~extracted": {
@@ -106,10 +105,9 @@
                                         },
                                         "hash": "312db50a06d5942ce9c8edbbb1980162"
                                     },
-                                    "package.1.json": "dca0d055232c6de74eec9820cce0614f",
                                     "package.json": "a662fb565ec21410d328f2d81e7427a0"
                                 },
-                                "hash": "49639b64bd743fe02a8e73f577644ece"
+                                "hash": "aa632b5dbd1984bc01abc2042012bd3f"
                             },
                             "source.tgz": "45187c32a712727465d7811729a16c2a",
                             "source~extracted": {
@@ -127,13 +125,13 @@
                                 "hash": "56a1681961b3bf15d56161e913012858"
                             }
                         },
-                        "hash": "ca3cd8d7396f18146f629d73189fa1b5"
+                        "hash": "3e6e4865c623fe1b7fb93769c258e0ff"
                     }
                 },
-                "hash": "4130523904a5ac070a80817fa29d43bb"
+                "hash": "7092b2942d9ca2cc373726235d79743c"
             }
         },
-        "hash": "996d543b0e76423650b732da410dcd96"
+        "hash": "3739e529f7075d68feddd8bad2cd4176"
     },
     "info": {}
 }

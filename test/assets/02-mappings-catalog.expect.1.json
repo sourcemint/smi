@@ -145,19 +145,19 @@
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
                             ".smi.json": "e3e980a20d6a156ca17b284d2c7a4ade",
-                            "package.1.json": "693dc7a93cdd8eb25e4a4327acf8510f",
+                            "package.1.json": "d0e2dcf597f80234d5c26638a75d579b",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "6e1b1d207527eef1ddfb943326c87725"
+                        "hash": "2052105aa23c28a4fe31721eed878b2d"
                     },
                     "smi-test-package-1-cdeaa1d": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
                             ".smi.json": "e3e980a20d6a156ca17b284d2c7a4ade",
-                            "package.1.json": "693dc7a93cdd8eb25e4a4327acf8510f",
+                            "package.1.json": "d0e2dcf597f80234d5c26638a75d579b",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "6e1b1d207527eef1ddfb943326c87725"
+                        "hash": "2052105aa23c28a4fe31721eed878b2d"
                     },
                     "smi-test-package-1-cdeaa1d.tgz": "d5d2b1c3a47575605de28ef77dd84fae",
                     "smi-test-package-1-cdeaa1d~extracted": {
@@ -169,10 +169,10 @@
                         "hash": "7ca7cb4e485ce9039a851f2a2a34dc71"
                     }
                 },
-                "hash": "d1cae3017db08750fd5745d7a7ad58a2"
+                "hash": "000354e94ac0be45522071f0a344a474"
             }
         },
-        "hash": "9cb0983397303134335ab0e72548c189"
+        "hash": "d2cee8dd0e84ffcc3444877c4aa2eea7"
     },
     "info": {
         "./dependencies/smi-test-package-1": {
@@ -199,6 +199,13 @@
                         "revision": "cdeaa1dc792864346ca726061a34935eaa55db1d"
                     },
                     "subpath": {}
+                }
+            },
+            "descriptor": {
+                "config": {
+                    "smi.cli": {
+                        "aspects": {}
+                    }
                 }
             },
             "installedPath": "./dependencies/smi-test-package-1-cdeaa1d",
@@ -228,6 +235,13 @@
                     "subpath": {}
                 }
             },
+            "descriptor": {
+                "config": {
+                    "smi.cli": {
+                        "aspects": {}
+                    }
+                }
+            },
             "installedPath": "./_packages/group1/smi-test-package-2-de6f087",
             "livePath": "./_packages/group1/smi-test-package-2"
         },
@@ -253,6 +267,13 @@
                         "revision": "de6f087b3c355566aecfa7f3e0741ca6775d66e5"
                     },
                     "subpath": {}
+                }
+            },
+            "descriptor": {
+                "config": {
+                    "smi.cli": {
+                        "aspects": {}
+                    }
                 }
             },
             "installedPath": "./_packages/smi-test-package-2-de6f087",
