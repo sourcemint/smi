@@ -20,7 +20,7 @@
                         "hash": "63c26fec44803a7601d6355fa93ae8b3"
                     },
                     "test-data-e4d4f67.dmg": "17fa01fcee4b8965b37cbdb9e8f3773c",
-                    "test-data-e4d4f67.dmg~.cdr": "c8d52dff0c60f8d8073e925ce59b145a",
+                    "test-data-e4d4f67.dmg~.cdr": "ff6e213b778a193895aeee858ba5940f",
                     "test-data-e4d4f67~extracted": {
                         "files": {
                             ".smi.json": "327cb3e0ee915ba7636eeda017413105",
@@ -29,10 +29,10 @@
                         "hash": "690e87b5427f1ab003292480e61a17e8"
                     }
                 },
-                "hash": "4b5c2acb1a680a77f869f3f86fde0244"
+                "hash": "13a709c80879d9ab590b5be659dc2ce4"
             }
         },
-        "hash": "96d234d81c43d2bdd8f64514921a29fb"
+        "hash": "0c1e3145b26c628acdd5699d5a58e63c"
     },
     "info": {}
 }

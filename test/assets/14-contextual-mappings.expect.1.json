@@ -6,35 +6,35 @@
                     "pkg2": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "1a38203bc6a53f94c353af165eb828a4",
+                            ".smi.json": "60bcef7fdecbaf94cedab8f3d1ff2011",
                             "package.1.json": "d0e2dcf597f80234d5c26638a75d579b",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "437fd18ebd1eb7a7aced9a0ab92f4f3c"
+                        "hash": "0a35842785b24f17087806c2282c0542"
                     },
                     "pkg2-cdeaa1d": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "1a38203bc6a53f94c353af165eb828a4",
+                            ".smi.json": "60bcef7fdecbaf94cedab8f3d1ff2011",
                             "package.1.json": "d0e2dcf597f80234d5c26638a75d579b",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "437fd18ebd1eb7a7aced9a0ab92f4f3c"
+                        "hash": "0a35842785b24f17087806c2282c0542"
                     },
-                    "pkg2-cdeaa1d.tgz": "d5d2b1c3a47575605de28ef77dd84fae",
+                    "pkg2-cdeaa1d.gz": "d5d2b1c3a47575605de28ef77dd84fae",
                     "pkg2-cdeaa1d~extracted": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "1a38203bc6a53f94c353af165eb828a4",
+                            ".smi.json": "60bcef7fdecbaf94cedab8f3d1ff2011",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "a64b82f6a49432f8063d52441132ec52"
+                        "hash": "96bd59399ed2d440e972db8a82a23d04"
                     }
                 },
-                "hash": "5822b5cedd6ec07920c0cfb487b9e3db"
+                "hash": "ed6f5fb25e032574d241e8ee86d5c24c"
             }
         },
-        "hash": "12e12abd81e4883813fe69942603adca"
+        "hash": "109b75a42fe211b00a0341fffdab9450"
     },
     "info": {
         "pkg2": {
@@ -54,7 +54,7 @@
                     "location": "https://github.com/sourcemint/smi-test-package-1/archive/v0.2.0.tar.gz",
                     "smi": {
                         "basePath": "./_packages/pkg2-cdeaa1d",
-                        "downloadedPath": "./_packages/pkg2-cdeaa1d.tgz",
+                        "downloadedPath": "./_packages/pkg2-cdeaa1d.gz",
                         "extractedPath": "./_packages/pkg2-cdeaa1d~extracted",
                         "installedPath": "./_packages/pkg2-cdeaa1d",
                         "livePath": "./_packages/pkg2",
@@ -70,6 +70,8 @@
                     }
                 }
             },
+            "downloadedPath": "./_packages/pkg2-cdeaa1d.gz",
+            "extractedPath": "./_packages/pkg2-cdeaa1d~extracted",
             "installedPath": "./_packages/pkg2-cdeaa1d",
             "livePath": "./_packages/pkg2"
         }
