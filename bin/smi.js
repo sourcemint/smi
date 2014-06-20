@@ -35,7 +35,7 @@ if (require.main === module) {
                 .version(JSON.parse(FS.readFileSync(PATH.join(__dirname, "../package.json"))).version)
                 .option("-s, --silent", "Don't log anything")
                 .option("-v, --verbose", "Log verbose progress messages")
-                .option("--debug", "Show debug output and serialize all otherwise parallel code paths")
+                .option("-d, --debug", "Show debug output and serialize all otherwise parallel code paths")
                 .option("--link-smi", "Link all dependencies called 'smi.cli' to our smi codebase")
                 .option("-f, --force", "Force an operation when it would normally be skipped");
 
