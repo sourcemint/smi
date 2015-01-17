@@ -12,33 +12,31 @@
                 "files": {
                     "smi-test-package-1": {
                         "files": {
-                            ".smi.json": "179878a6fe00d9ffae969428ee2ed107",
-                            "package.1.json": "d0e2dcf597f80234d5c26638a75d579b",
+                            ".smi.json": "37c80fa945ef4fe65ec0a0e5b8f58e91",
                             "package.json": "5d08d6b910b455b8f97424245889d226"
                         },
-                        "hash": "1f7c714e90d9c7ba938d7ab76f26069a"
+                        "hash": "bd5a4860c8301491036f25942a6f7506"
                     },
                     "smi-test-package-1-8fa2dce": {
                         "files": {
-                            ".smi.json": "179878a6fe00d9ffae969428ee2ed107",
-                            "package.1.json": "d0e2dcf597f80234d5c26638a75d579b",
+                            ".smi.json": "37c80fa945ef4fe65ec0a0e5b8f58e91",
                             "package.json": "5d08d6b910b455b8f97424245889d226"
                         },
-                        "hash": "1f7c714e90d9c7ba938d7ab76f26069a"
+                        "hash": "bd5a4860c8301491036f25942a6f7506"
                     },
                     "smi-test-package-1-8fa2dce.gz": "77dd6dc731b7b98799aff3adecbd9ae2",
                     "smi-test-package-1-8fa2dce~extracted": {
                         "files": {
-                            ".smi.json": "179878a6fe00d9ffae969428ee2ed107",
+                            ".smi.json": "37c80fa945ef4fe65ec0a0e5b8f58e91",
                             "package.json": "5d08d6b910b455b8f97424245889d226"
                         },
-                        "hash": "3cd86c40fef2544b3054683ea9a2893b"
+                        "hash": "bd5a4860c8301491036f25942a6f7506"
                     }
                 },
-                "hash": "46afddb29f668acb174def6c14a0437a"
+                "hash": "71b2c46378df87735bf9931bd495be4e"
             }
         },
-        "hash": "27c7d8ccd1eab5d1ab07bc0f4f7c4775"
+        "hash": "3ec289063078cb02fc7790fe9b464ae9"
     },
     "info": {}
 }

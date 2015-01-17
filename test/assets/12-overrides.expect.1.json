@@ -9,7 +9,7 @@
                             "source": {
                                 "files": {
                                     ".gitignore": "f2f73cc697e5cc0e531fe9f5504957d4",
-                                    ".smi.json": "5676e4d083f488653627c9696880ebb6",
+                                    ".smi.json": "8da1eb8ecb834d23eaeb264bcee1c0f2",
                                     "module.js": "14bb5ce40b0ec78d2d3d5ec5f19566cf",
                                     "node_modules": {
                                         "files": {
@@ -25,12 +25,12 @@
                                     },
                                     "package.json": "a662fb565ec21410d328f2d81e7427a0"
                                 },
-                                "hash": "33b6647e8c5e6f7fe2bc2bff0a9284ce"
+                                "hash": "038ff2f29b4a4cf0f73517e912dbe0c7"
                             },
                             "source.gz": "45187c32a712727465d7811729a16c2a",
                             "source~extracted": {
                                 "files": {
-                                    ".smi.json": "5676e4d083f488653627c9696880ebb6",
+                                    ".smi.json": "8da1eb8ecb834d23eaeb264bcee1c0f2",
                                     "source": {
                                         "files": {
                                             ".gitignore": "f2f73cc697e5cc0e531fe9f5504957d4",
@@ -40,10 +40,10 @@
                                         "hash": "ae105fdbb0749ce3be5cc5818e5fae25"
                                     }
                                 },
-                                "hash": "65308535a0d98587a22230fb16910e5f"
+                                "hash": "51efd61a8927b7a60a8c959d6379e1d9"
                             }
                         },
-                        "hash": "ef3295cb422c95bb4b523155fa53c1d0"
+                        "hash": "14e2c22f75e35236b6b3822713f4a1bc"
                     },
                     "smi-test-package-2-5ab4eea": {
                         "files": {
@@ -51,7 +51,7 @@
                             "source": {
                                 "files": {
                                     ".gitignore": "f2f73cc697e5cc0e531fe9f5504957d4",
-                                    ".smi.json": "5676e4d083f488653627c9696880ebb6",
+                                    ".smi.json": "8da1eb8ecb834d23eaeb264bcee1c0f2",
                                     "module.js": "14bb5ce40b0ec78d2d3d5ec5f19566cf",
                                     "node_modules": {
                                         "files": {
@@ -67,12 +67,12 @@
                                     },
                                     "package.json": "a662fb565ec21410d328f2d81e7427a0"
                                 },
-                                "hash": "33b6647e8c5e6f7fe2bc2bff0a9284ce"
+                                "hash": "038ff2f29b4a4cf0f73517e912dbe0c7"
                             },
                             "source.gz": "45187c32a712727465d7811729a16c2a",
                             "source~extracted": {
                                 "files": {
-                                    ".smi.json": "5676e4d083f488653627c9696880ebb6",
+                                    ".smi.json": "8da1eb8ecb834d23eaeb264bcee1c0f2",
                                     "source": {
                                         "files": {
                                             ".gitignore": "f2f73cc697e5cc0e531fe9f5504957d4",
@@ -82,16 +82,16 @@
                                         "hash": "ae105fdbb0749ce3be5cc5818e5fae25"
                                     }
                                 },
-                                "hash": "65308535a0d98587a22230fb16910e5f"
+                                "hash": "51efd61a8927b7a60a8c959d6379e1d9"
                             }
                         },
-                        "hash": "ef3295cb422c95bb4b523155fa53c1d0"
+                        "hash": "14e2c22f75e35236b6b3822713f4a1bc"
                     }
                 },
-                "hash": "223210cf3b68ad7b4100cd2da84cc55b"
+                "hash": "8095963ef1fab0c1fb854bcc74ce43a1"
             }
         },
-        "hash": "a753a3fca7e8569520d102c9709d2aa6"
+        "hash": "5ee19829183d69887ebae916248fb27c"
     },
     "info": {
         "smi-test-package-2": {
@@ -116,7 +116,9 @@
                         "name": "smi-test-package-2",
                         "version": "0.4.0"
                     },
+                    "filelink": false,
                     "install": true,
+                    "latestOnly": false,
                     "location": "https://github.com/sourcemint/smi-test-package-2/archive/v0.4.0.tar.gz",
                     "smi": {
                         "basePath": "./_packages/smi-test-package-2-5ab4eea",

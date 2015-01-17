@@ -6,35 +6,33 @@
                     "pkg2": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "60bcef7fdecbaf94cedab8f3d1ff2011",
-                            "package.1.json": "d0e2dcf597f80234d5c26638a75d579b",
+                            ".smi.json": "2269ae94add7bf7b391b400c929250ad",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "0a35842785b24f17087806c2282c0542"
+                        "hash": "202b6000c25fac8b08b77e15c95c5f69"
                     },
                     "pkg2-cdeaa1d": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "60bcef7fdecbaf94cedab8f3d1ff2011",
-                            "package.1.json": "d0e2dcf597f80234d5c26638a75d579b",
+                            ".smi.json": "2269ae94add7bf7b391b400c929250ad",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "0a35842785b24f17087806c2282c0542"
+                        "hash": "202b6000c25fac8b08b77e15c95c5f69"
                     },
                     "pkg2-cdeaa1d.gz": "d5d2b1c3a47575605de28ef77dd84fae",
                     "pkg2-cdeaa1d~extracted": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "60bcef7fdecbaf94cedab8f3d1ff2011",
+                            ".smi.json": "2269ae94add7bf7b391b400c929250ad",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "96bd59399ed2d440e972db8a82a23d04"
+                        "hash": "202b6000c25fac8b08b77e15c95c5f69"
                     }
                 },
-                "hash": "ed6f5fb25e032574d241e8ee86d5c24c"
+                "hash": "e857227627791be5fd05b4907f153c34"
             }
         },
-        "hash": "109b75a42fe211b00a0341fffdab9450"
+        "hash": "9c724deb34873b667f6387518c6b0c7d"
     },
     "info": {}
 }
