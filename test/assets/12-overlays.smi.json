@@ -11,7 +11,7 @@
 			}
 		}
 	},
-	"overrides": [
-		"./12-overrides.smi.local.json"
+	"overlays": [
+		"./12-overlays.smi.local.json"
 	]
 }
