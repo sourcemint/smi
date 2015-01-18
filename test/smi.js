@@ -27,7 +27,7 @@ describe('smi', function() {
 
 		var testName = filename.replace(/\.smi\.json$/, "");
 
-//if (!/^15/.test(testName)) return;
+//if (!/^04/.test(testName)) return;
 
     	it(testName, function(callback) {
 
@@ -35,8 +35,8 @@ describe('smi', function() {
 
     		function run(expectPath, callback) {
 	    		return SMI.install(resultPath, PATH.join(assetBasePath, filename), {
-	    			verbose: false,
-	    			debug: false
+	    			verbose: DEBUG,
+	    			debug: DEBUG
 	    		}, function(err, info) {
 	    			if (err) return callback(err);
 					return DIRSUM.digest(resultPath, function(err, hashes) {

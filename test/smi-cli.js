@@ -34,9 +34,13 @@ describe('smi-cli', function() {
 
     			return FS.copy(PATH.join(assetBasePath, testName + ".smi.json"), PATH.join(resultPath, "package.json"), function(err) {
     				if (err) return callback(err);
-					var proc = SPAWN(PATH.join(__dirname, "../bin/smi"), [
+    				var args = [
 						"install"
-					], {
+					];
+    				if (DEBUG) {
+    					args.push("-vd");
+    				}
+					var proc = SPAWN(PATH.join(__dirname, "../bin/smi"), args, {
 						cwd: resultPath
 					});
 					proc.on("error", callback);
