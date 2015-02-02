@@ -5,7 +5,7 @@
                 "files": {
                     "proto-package": {
                         "files": {
-                            ".smi.json": "77c8b227e17d3b0586916231b8ecdfe0",
+                            ".smi.json": "936fde18cffb38b7bf81dd2a5ff59c6c",
                             "scripts": {
                                 "files": {
                                     "postdeploy.sh": "56158525548d042459fd6880188e2138"
@@ -22,11 +22,11 @@
                             },
                             "use.json": "2b5e573f14bdac397828e75e43ed367d"
                         },
-                        "hash": "2e098709017fe1ca03472a2a36ac33ec"
+                        "hash": "496672593efba0e558a0340048a10d30"
                     },
                     "proto-package-1c3dbf1": {
                         "files": {
-                            ".smi.json": "77c8b227e17d3b0586916231b8ecdfe0",
+                            ".smi.json": "936fde18cffb38b7bf81dd2a5ff59c6c",
                             "scripts": {
                                 "files": {
                                     "postdeploy.sh": "56158525548d042459fd6880188e2138"
@@ -43,12 +43,12 @@
                             },
                             "use.json": "2b5e573f14bdac397828e75e43ed367d"
                         },
-                        "hash": "2e098709017fe1ca03472a2a36ac33ec"
+                        "hash": "496672593efba0e558a0340048a10d30"
                     },
                     "proto-package-1c3dbf1.gz": "9da85df26df621fa9709e143f7882919",
                     "proto-package-1c3dbf1~extracted": {
                         "files": {
-                            ".smi.json": "5a561683b4d8df981c9b6518b77d97b6",
+                            ".smi.json": "7316c2e44e804aae5108c855740e53ec",
                             "scripts": {
                                 "files": {
                                     "postdeploy.sh": "56158525548d042459fd6880188e2138"
@@ -65,7 +65,7 @@
                             },
                             "use.json": "2b5e573f14bdac397828e75e43ed367d"
                         },
-                        "hash": "a256683653ed172986c40726eb8bddb1"
+                        "hash": "58398038bf08004094f3ccb374c5ef98"
                     },
                     "smi-test-package-2": {
                         "files": {
@@ -136,10 +136,10 @@
                         "hash": "2e1248f3028a4740e320d6fd359d722f"
                     }
                 },
-                "hash": "9c3d359850b0a1f32f346d0cc3407eb0"
+                "hash": "0e890a7ebc5c87ebee8bb42a9681a15b"
             }
         },
-        "hash": "44cc7a5083b21b65cc2d6a3752f59189"
+        "hash": "f2933b1eed2a62f215c0fb0a09d30a45"
     },
     "info": {
         "proto-package": {
@@ -154,7 +154,7 @@
                         }
                     },
                     "filelink": false,
-                    "install": {},
+                    "install": true,
                     "latestOnly": false,
                     "location": "https://github.com/sourcemint/smi-test-package-2/archive/v0.5.0.tar.gz",
                     "smi": {

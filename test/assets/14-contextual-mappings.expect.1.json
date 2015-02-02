@@ -6,33 +6,33 @@
                     "pkg2": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "2269ae94add7bf7b391b400c929250ad",
+                            ".smi.json": "e446b1536ffc85c106b3fccf428480a1",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "202b6000c25fac8b08b77e15c95c5f69"
+                        "hash": "8a6e87e23b85c2880f67f20160ebea7c"
                     },
                     "pkg2-cdeaa1d": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "2269ae94add7bf7b391b400c929250ad",
+                            ".smi.json": "e446b1536ffc85c106b3fccf428480a1",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "202b6000c25fac8b08b77e15c95c5f69"
+                        "hash": "8a6e87e23b85c2880f67f20160ebea7c"
                     },
                     "pkg2-cdeaa1d.gz": "d5d2b1c3a47575605de28ef77dd84fae",
                     "pkg2-cdeaa1d~extracted": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "2269ae94add7bf7b391b400c929250ad",
+                            ".smi.json": "e446b1536ffc85c106b3fccf428480a1",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "202b6000c25fac8b08b77e15c95c5f69"
+                        "hash": "8a6e87e23b85c2880f67f20160ebea7c"
                     }
                 },
-                "hash": "e857227627791be5fd05b4907f153c34"
+                "hash": "fbdf1609abf0ebc39d4a2310ecdeec11"
             }
         },
-        "hash": "9c724deb34873b667f6387518c6b0c7d"
+        "hash": "e25a1f174c49d12950d27622b91c05d2"
     },
     "info": {
         "pkg2": {
@@ -49,7 +49,7 @@
                         "version": "0.2.0"
                     },
                     "filelink": false,
-                    "install": {},
+                    "install": true,
                     "latestOnly": false,
                     "location": "https://github.com/sourcemint/smi-test-package-1/archive/v0.2.0.tar.gz",
                     "smi": {

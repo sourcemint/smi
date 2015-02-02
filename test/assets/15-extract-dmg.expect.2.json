@@ -5,32 +5,32 @@
                 "files": {
                     "test-data": {
                         "files": {
-                            ".smi.json": "ae57faa33adb287dd34198db32db6e49",
+                            ".smi.json": "79b8e26d051f1efbf592f4084037a2c2",
                             "data.txt": "69e05f540cd329f87d566eb146c07ebe"
                         },
-                        "hash": "e30c3234a238a3d2b44cff5d3b6ea863"
+                        "hash": "5e0e25572126e0800504d89a3939c594"
                     },
                     "test-data-e4d4f67": {
                         "files": {
-                            ".smi.json": "ae57faa33adb287dd34198db32db6e49",
+                            ".smi.json": "79b8e26d051f1efbf592f4084037a2c2",
                             "data.txt": "69e05f540cd329f87d566eb146c07ebe"
                         },
-                        "hash": "e30c3234a238a3d2b44cff5d3b6ea863"
+                        "hash": "5e0e25572126e0800504d89a3939c594"
                     },
                     "test-data-e4d4f67.dmg": "17fa01fcee4b8965b37cbdb9e8f3773c",
-                    "test-data-e4d4f67.dmg~.cdr": "eaebc13e3b4a9659748b9a0bfdd69c66",
+                    "test-data-e4d4f67.dmg~.cdr": "402422336da5d94d050a07730f466a2d",
                     "test-data-e4d4f67~extracted": {
                         "files": {
-                            ".smi.json": "ae57faa33adb287dd34198db32db6e49",
+                            ".smi.json": "79b8e26d051f1efbf592f4084037a2c2",
                             "data.txt": "69e05f540cd329f87d566eb146c07ebe"
                         },
-                        "hash": "e30c3234a238a3d2b44cff5d3b6ea863"
+                        "hash": "5e0e25572126e0800504d89a3939c594"
                     }
                 },
-                "hash": "10bdeec22577eaf6a42aa71b10797d52"
+                "hash": "03ec227d9d1c40bfe4659e10326d047a"
             }
         },
-        "hash": "01eec70cb8c5d3966c958ae25b912956"
+        "hash": "92311ef1b00a7ea9a70e763a12d1cff2"
     },
     "info": {}
 }
