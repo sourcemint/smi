@@ -5,32 +5,32 @@
                 "files": {
                     "test-data": {
                         "files": {
-                            ".smi.json": "79b8e26d051f1efbf592f4084037a2c2",
+                            ".smi.json": "eb58a84f2ff4201b8701df1b1cbcfad3",
                             "data.txt": "69e05f540cd329f87d566eb146c07ebe"
                         },
-                        "hash": "5e0e25572126e0800504d89a3939c594"
+                        "hash": "9458c433ad6e88f9d63afafc8a76ae2b"
                     },
                     "test-data-e4d4f67": {
                         "files": {
-                            ".smi.json": "79b8e26d051f1efbf592f4084037a2c2",
+                            ".smi.json": "eb58a84f2ff4201b8701df1b1cbcfad3",
                             "data.txt": "69e05f540cd329f87d566eb146c07ebe"
                         },
-                        "hash": "5e0e25572126e0800504d89a3939c594"
+                        "hash": "9458c433ad6e88f9d63afafc8a76ae2b"
                     },
                     "test-data-e4d4f67.dmg": "17fa01fcee4b8965b37cbdb9e8f3773c",
-                    "test-data-e4d4f67.dmg~.cdr": "402422336da5d94d050a07730f466a2d",
+                    "test-data-e4d4f67.dmg~.cdr": "f91daa4f8e1fa2957981f83975e70106",
                     "test-data-e4d4f67~extracted": {
                         "files": {
-                            ".smi.json": "79b8e26d051f1efbf592f4084037a2c2",
+                            ".smi.json": "eb58a84f2ff4201b8701df1b1cbcfad3",
                             "data.txt": "69e05f540cd329f87d566eb146c07ebe"
                         },
-                        "hash": "5e0e25572126e0800504d89a3939c594"
+                        "hash": "9458c433ad6e88f9d63afafc8a76ae2b"
                     }
                 },
-                "hash": "03ec227d9d1c40bfe4659e10326d047a"
+                "hash": "2d1a8241b36299620ae5ae444510abf8"
             }
         },
-        "hash": "92311ef1b00a7ea9a70e763a12d1cff2"
+        "hash": "3471b4b3babec9fffbda41e5527729e7"
     },
     "info": {}
 }

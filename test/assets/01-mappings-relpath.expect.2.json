@@ -6,33 +6,33 @@
                     "smi-test-package-1": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "81daa53971d556994f769679ad96f1e6",
+                            ".smi.json": "6cc94f14dd12a09bd033ac31065bcd88",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "4099bfa8d777f4d8e20d1afaeec551b5"
+                        "hash": "4b919f9caee7f3695310d6a8036342af"
                     },
                     "smi-test-package-1-cdeaa1d": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "81daa53971d556994f769679ad96f1e6",
+                            ".smi.json": "6cc94f14dd12a09bd033ac31065bcd88",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "4099bfa8d777f4d8e20d1afaeec551b5"
+                        "hash": "4b919f9caee7f3695310d6a8036342af"
                     },
                     "smi-test-package-1-cdeaa1d.gz": "d5d2b1c3a47575605de28ef77dd84fae",
                     "smi-test-package-1-cdeaa1d~extracted": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "81daa53971d556994f769679ad96f1e6",
+                            ".smi.json": "6cc94f14dd12a09bd033ac31065bcd88",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "4099bfa8d777f4d8e20d1afaeec551b5"
+                        "hash": "4b919f9caee7f3695310d6a8036342af"
                     }
                 },
-                "hash": "363035f92e4d9763c6c269c693482189"
+                "hash": "0db2d55d0cfefefe34de991c6ce12083"
             }
         },
-        "hash": "9e22476c3e280877d3ba70fe9b25d630"
+        "hash": "de01e6dbc7da6f30763decbab034e990"
     },
     "info": {}
 }

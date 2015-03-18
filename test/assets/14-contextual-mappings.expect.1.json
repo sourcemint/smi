@@ -6,38 +6,39 @@
                     "pkg2": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "e446b1536ffc85c106b3fccf428480a1",
+                            ".smi.json": "1bd7e26611d16dddac251f1cd2be892c",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "8a6e87e23b85c2880f67f20160ebea7c"
+                        "hash": "c567de399db189c941451efea9a5bed8"
                     },
                     "pkg2-cdeaa1d": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "e446b1536ffc85c106b3fccf428480a1",
+                            ".smi.json": "1bd7e26611d16dddac251f1cd2be892c",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "8a6e87e23b85c2880f67f20160ebea7c"
+                        "hash": "c567de399db189c941451efea9a5bed8"
                     },
                     "pkg2-cdeaa1d.gz": "d5d2b1c3a47575605de28ef77dd84fae",
                     "pkg2-cdeaa1d~extracted": {
                         "files": {
                             ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "e446b1536ffc85c106b3fccf428480a1",
+                            ".smi.json": "1bd7e26611d16dddac251f1cd2be892c",
                             "package.json": "c507821b47ed0e5fe39eeff6886da00f"
                         },
-                        "hash": "8a6e87e23b85c2880f67f20160ebea7c"
+                        "hash": "c567de399db189c941451efea9a5bed8"
                     }
                 },
-                "hash": "fbdf1609abf0ebc39d4a2310ecdeec11"
+                "hash": "cf50edb4e7c6dc39e4e7702747fef273"
             }
         },
-        "hash": "e25a1f174c49d12950d27622b91c05d2"
+        "hash": "d3baf40bc75bba9f2662ba17163418aa"
     },
     "info": {
         "pkg2": {
             "aspects": {
                 "": {
+                    "copy": false,
                     "dependsIndex": 0,
                     "descriptor": {
                         "config": {
