@@ -42,6 +42,35 @@ if (require.main === module) {
             var acted = false;
 
             program
+                .command("show-deps")
+                .description("Show dependencies")
+                .action(function(options) {
+                    acted = true;
+                    var basePath = process.cwd();
+                    var descriptorPath = PATH.join(basePath, "package.json");
+                    return Q.denodeify(function(callback) {
+                        return FS.exists(descriptorPath, function(exists) {
+                            if (!exists) {
+                                return callback("No descriptor found at: " + descriptorPath);
+                            }
+                            var opts = {
+                                debug: program.debug || !!process.env.PIO_DEBUG || false,
+                                verbose: program.verbose || !!process.env.PIO_VERBOSE || program.debug || !!process.env.PIO_DEBUG || false,
+                                silent: program.silent || !!process.env.PIO_SILENT || false,
+                                linkSmi: (process.env.SMI_OPT_LINK_SMI === "1" || program.linkSmi === true),
+                                dryrun: "deps"
+                            };
+                            return SMI.install(basePath, descriptorPath, opts, function(err) {
+                                if (err) return callback(err);
+                                return callback(null);
+                            });
+                        });
+                    })().then(function() {
+                        return callback(null);
+                    }).fail(callback);
+                });
+
+            program
                 .command("install")
                 .option("--npm", "Call 'npm install' after smi finishes")
                 .description("Install packages")
