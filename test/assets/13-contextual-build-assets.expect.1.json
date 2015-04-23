@@ -389,6 +389,7 @@
     },
     "info": {
         "pkg1": {
+            "aspect": {},
             "aspects": {
                 "build": {
                     "copy": false,
@@ -432,6 +433,7 @@
             "livePath": "./_packages/pkg1"
         },
         "pkg2": {
+            "aspect": {},
             "aspects": {
                 "build": {
                     "copy": false,
@@ -477,6 +479,7 @@
             "livePath": "./_packages/pkg2"
         },
         "pkg3": {
+            "aspect": {},
             "aspects": {
                 "build": {
                     "copy": false,
@@ -522,6 +525,7 @@
             "livePath": "./_packages/pkg3"
         },
         "pkg4": {
+            "aspect": {},
             "aspects": {
                 "build": {
                     "copy": false,

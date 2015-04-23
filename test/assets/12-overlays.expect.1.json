@@ -95,6 +95,7 @@
     },
     "info": {
         "smi-test-package-2": {
+            "aspect": {},
             "aspects": {
                 "source": {
                     "copy": false,

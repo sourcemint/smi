@@ -143,6 +143,7 @@
     },
     "info": {
         "proto-package": {
+            "aspect": {},
             "aspects": {
                 "": {
                     "copy": false,
@@ -182,6 +183,7 @@
             "livePath": "./_packages/proto-package"
         },
         "smi-test-package-2": {
+            "aspect": {},
             "aspects": {
                 "source": {
                     "copy": false,

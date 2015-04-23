@@ -18,7 +18,7 @@
                         "hash": "9458c433ad6e88f9d63afafc8a76ae2b"
                     },
                     "test-data-e4d4f67.dmg": "17fa01fcee4b8965b37cbdb9e8f3773c",
-                    "test-data-e4d4f67.dmg~.cdr": "f91daa4f8e1fa2957981f83975e70106",
+                    "test-data-e4d4f67.dmg~.cdr": "3760f213765d10414727abd3921d8cdb",
                     "test-data-e4d4f67~extracted": {
                         "files": {
                             ".smi.json": "eb58a84f2ff4201b8701df1b1cbcfad3",
@@ -27,13 +27,14 @@
                         "hash": "9458c433ad6e88f9d63afafc8a76ae2b"
                     }
                 },
-                "hash": "2d1a8241b36299620ae5ae444510abf8"
+                "hash": "1f82aa42964787d99225e1803d3b2f74"
             }
         },
-        "hash": "3471b4b3babec9fffbda41e5527729e7"
+        "hash": "2d95668dad8bd213a46bbff258bd48aa"
     },
     "info": {
         "test-data": {
+            "aspect": {},
             "aspects": {
                 "": {
                     "copy": false,

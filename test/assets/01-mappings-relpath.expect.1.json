@@ -36,6 +36,7 @@
     },
     "info": {
         "./dependencies/smi-test-package-1": {
+            "aspect": {},
             "aspects": {
                 "": {
                     "copy": false,

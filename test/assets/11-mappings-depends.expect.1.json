@@ -196,6 +196,7 @@
     },
     "info": {
         "smi-test-package-1": {
+            "aspect": {},
             "aspects": {
                 "": {
                     "copy": false,
@@ -235,6 +236,7 @@
             "livePath": "./_packages/smi-test-package-1"
         },
         "smi-test-package-2": {
+            "aspect": {},
             "aspects": {
                 "": {
                     "copy": false,
@@ -274,6 +276,7 @@
             "livePath": "./_packages/smi-test-package-2"
         },
         "smi-test-package-3": {
+            "aspect": {},
             "aspects": {
                 "": {
                     "copy": false,

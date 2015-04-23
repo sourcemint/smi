@@ -36,6 +36,7 @@
     },
     "info": {
         "pkg2": {
+            "aspect": {},
             "aspects": {
                 "": {
                     "copy": false,
