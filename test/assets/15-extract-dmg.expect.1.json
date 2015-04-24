@@ -1,36 +1,51 @@
 {
     "hashes": {
-        "files": {
-            "_packages": {
-                "files": {
-                    "test-data": {
-                        "files": {
-                            ".smi.json": "eb58a84f2ff4201b8701df1b1cbcfad3",
-                            "data.txt": "69e05f540cd329f87d566eb146c07ebe"
-                        },
-                        "hash": "9458c433ad6e88f9d63afafc8a76ae2b"
-                    },
-                    "test-data-e4d4f67": {
-                        "files": {
-                            ".smi.json": "eb58a84f2ff4201b8701df1b1cbcfad3",
-                            "data.txt": "69e05f540cd329f87d566eb146c07ebe"
-                        },
-                        "hash": "9458c433ad6e88f9d63afafc8a76ae2b"
-                    },
-                    "test-data-e4d4f67.dmg": "17fa01fcee4b8965b37cbdb9e8f3773c",
-                    "test-data-e4d4f67.dmg~.cdr": "3760f213765d10414727abd3921d8cdb",
-                    "test-data-e4d4f67~extracted": {
-                        "files": {
-                            ".smi.json": "eb58a84f2ff4201b8701df1b1cbcfad3",
-                            "data.txt": "69e05f540cd329f87d566eb146c07ebe"
-                        },
-                        "hash": "9458c433ad6e88f9d63afafc8a76ae2b"
-                    }
-                },
-                "hash": "1f82aa42964787d99225e1803d3b2f74"
+        "hash": "871eed62d58134360309124ecf610b03",
+        "paths": {
+            "/_packages": {
+                "dir": true,
+                "size": 238
+            },
+            "/_packages/test-data": {
+                "dir": true,
+                "size": 17,
+                "symlink": "test-data-e4d4f67",
+                "symlinkReal": "/_packages/test-data-e4d4f67"
+            },
+            "/_packages/test-data-e4d4f67": {
+                "dir": true,
+                "size": 136
+            },
+            "/_packages/test-data-e4d4f67.dmg": {
+                "dir": false,
+                "size": 121,
+                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/s3.amazonaws.com/__TEST_DATA__/Archive.dmg",
+                "symlinkReal": "/../.smi/cache/https/s3.amazonaws.com/__TEST_DATA__/Archive.dmg"
+            },
+            "/_packages/test-data-e4d4f67.dmg~.cdr": {
+                "size": 10518528
+            },
+            "/_packages/test-data-e4d4f67/data.txt": {
+                "size": 20
+            },
+            "/_packages/test-data-e4d4f67~extracted": {
+                "dir": true,
+                "size": 136
+            },
+            "/_packages/test-data-e4d4f67~extracted/data.txt": {
+                "size": 20
+            },
+            "/_packages/test-data/data.txt": {
+                "size": 20
             }
         },
-        "hash": "2d95668dad8bd213a46bbff258bd48aa"
+        "summary": {
+            "ignoreRulesCount": 11,
+            "ignoredFileList": {},
+            "ignoredFiles": 3,
+            "totalFiles": 9,
+            "totalSize": 10518588
+        }
     },
     "info": {
         "test-data": {
@@ -58,7 +73,8 @@
                         "livePath": "./_packages/test-data",
                         "revision": "e4d4f67b6ce9dd54418e88e675f7d0a10c3f19fb"
                     },
-                    "subpath": {}
+                    "subpath": {},
+                    "type": {}
                 }
             },
             "descriptor": {

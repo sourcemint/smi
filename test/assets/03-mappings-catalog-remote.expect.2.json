@@ -1,42 +1,64 @@
 {
     "hashes": {
-        "files": {
-            "_packages": {
-                "files": {
-                    "03-mappings-catalog-remote.catalog.json": "fe71bb11ecf514be5c5615cda184f473",
-                    "03-mappings-catalog-remote.catalog.json~~meta": "de62d2735332992bad408094b0e4a2a9"
-                },
-                "hash": "fcd96fb1cd0435bfcc124c7685e6ab5a"
+        "hash": "d7b5a475395a2d007ad591e7f6f16093",
+        "paths": {
+            "/_packages": {
+                "dir": true,
+                "size": 136
             },
-            "dependencies": {
-                "files": {
-                    "smi-test-package-1": {
-                        "files": {
-                            ".smi.json": "7896c480c896e314737ae13a031b8fbf",
-                            "package.json": "5d08d6b910b455b8f97424245889d226"
-                        },
-                        "hash": "bc1fcd179c0e9714d009382b3780bdc5"
-                    },
-                    "smi-test-package-1-8fa2dce": {
-                        "files": {
-                            ".smi.json": "7896c480c896e314737ae13a031b8fbf",
-                            "package.json": "5d08d6b910b455b8f97424245889d226"
-                        },
-                        "hash": "bc1fcd179c0e9714d009382b3780bdc5"
-                    },
-                    "smi-test-package-1-8fa2dce.gz": "77dd6dc731b7b98799aff3adecbd9ae2",
-                    "smi-test-package-1-8fa2dce~extracted": {
-                        "files": {
-                            ".smi.json": "7896c480c896e314737ae13a031b8fbf",
-                            "package.json": "5d08d6b910b455b8f97424245889d226"
-                        },
-                        "hash": "bc1fcd179c0e9714d009382b3780bdc5"
-                    }
-                },
-                "hash": "fe815f0b0114f69abb9496fb0de78d89"
+            "/_packages/03-mappings-catalog-remote.catalog.json": {
+                "dir": false,
+                "size": 178,
+                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/raw.githubusercontent.com/sourcemint/smi/v0.2.0/test/assets/03-mappings-catalog-remote.catalog.json",
+                "symlinkReal": "/../.smi/cache/https/raw.githubusercontent.com/sourcemint/smi/v0.2.0/test/assets/03-mappings-catalog-remote.catalog.json"
+            },
+            "/_packages/03-mappings-catalog-remote.catalog.json~~meta": {
+                "dir": false,
+                "size": 184,
+                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/raw.githubusercontent.com/sourcemint/smi/v0.2.0/test/assets/03-mappings-catalog-remote.catalog.json~~meta",
+                "symlinkReal": "/../.smi/cache/https/raw.githubusercontent.com/sourcemint/smi/v0.2.0/test/assets/03-mappings-catalog-remote.catalog.json~~meta"
+            },
+            "/dependencies": {
+                "dir": true,
+                "size": 204
+            },
+            "/dependencies/smi-test-package-1": {
+                "dir": true,
+                "size": 26,
+                "symlink": "smi-test-package-1-8fa2dce",
+                "symlinkReal": "/dependencies/smi-test-package-1-8fa2dce"
+            },
+            "/dependencies/smi-test-package-1-8fa2dce": {
+                "dir": true,
+                "size": 136
+            },
+            "/dependencies/smi-test-package-1-8fa2dce.gz": {
+                "dir": false,
+                "size": 142,
+                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.1.0",
+                "symlinkReal": "/../.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.1.0"
+            },
+            "/dependencies/smi-test-package-1-8fa2dce/package.json": {
+                "size": 54
+            },
+            "/dependencies/smi-test-package-1-8fa2dce~extracted": {
+                "dir": true,
+                "size": 136
+            },
+            "/dependencies/smi-test-package-1-8fa2dce~extracted/package.json": {
+                "size": 54
+            },
+            "/dependencies/smi-test-package-1/package.json": {
+                "size": 54
             }
         },
-        "hash": "86f683de390c06d8f8dd82fb3c533720"
+        "summary": {
+            "ignoreRulesCount": 12,
+            "ignoredFileList": {},
+            "ignoredFiles": 3,
+            "totalFiles": 10,
+            "totalSize": 162
+        }
     },
     "info": {}
 }

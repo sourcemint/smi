@@ -1,38 +1,48 @@
 {
     "hashes": {
-        "files": {
-            "dependencies": {
-                "files": {
-                    "smi-test-package-1": {
-                        "files": {
-                            ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "6cc94f14dd12a09bd033ac31065bcd88",
-                            "package.json": "c507821b47ed0e5fe39eeff6886da00f"
-                        },
-                        "hash": "4b919f9caee7f3695310d6a8036342af"
-                    },
-                    "smi-test-package-1-cdeaa1d": {
-                        "files": {
-                            ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "6cc94f14dd12a09bd033ac31065bcd88",
-                            "package.json": "c507821b47ed0e5fe39eeff6886da00f"
-                        },
-                        "hash": "4b919f9caee7f3695310d6a8036342af"
-                    },
-                    "smi-test-package-1-cdeaa1d.gz": "d5d2b1c3a47575605de28ef77dd84fae",
-                    "smi-test-package-1-cdeaa1d~extracted": {
-                        "files": {
-                            ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "6cc94f14dd12a09bd033ac31065bcd88",
-                            "package.json": "c507821b47ed0e5fe39eeff6886da00f"
-                        },
-                        "hash": "4b919f9caee7f3695310d6a8036342af"
-                    }
-                },
-                "hash": "0db2d55d0cfefefe34de991c6ce12083"
+        "hash": "6bb53a30b74d8a818e299e9f25f3392e",
+        "paths": {
+            "/dependencies": {
+                "dir": true,
+                "size": 204
+            },
+            "/dependencies/smi-test-package-1": {
+                "dir": true,
+                "size": 26,
+                "symlink": "smi-test-package-1-cdeaa1d",
+                "symlinkReal": "/dependencies/smi-test-package-1-cdeaa1d"
+            },
+            "/dependencies/smi-test-package-1-cdeaa1d": {
+                "dir": true,
+                "size": 170
+            },
+            "/dependencies/smi-test-package-1-cdeaa1d.gz": {
+                "dir": false,
+                "size": 142,
+                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0",
+                "symlinkReal": "/../.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0"
+            },
+            "/dependencies/smi-test-package-1-cdeaa1d/package.json": {
+                "size": 54
+            },
+            "/dependencies/smi-test-package-1-cdeaa1d~extracted": {
+                "dir": true,
+                "size": 170
+            },
+            "/dependencies/smi-test-package-1-cdeaa1d~extracted/package.json": {
+                "size": 54
+            },
+            "/dependencies/smi-test-package-1/package.json": {
+                "size": 54
             }
         },
-        "hash": "de01e6dbc7da6f30763decbab034e990"
+        "summary": {
+            "ignoreRulesCount": 20,
+            "ignoredFileList": {},
+            "ignoredFiles": 6,
+            "totalFiles": 11,
+            "totalSize": 162
+        }
     },
     "info": {}
 }

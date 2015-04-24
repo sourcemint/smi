@@ -1,38 +1,48 @@
 {
     "hashes": {
-        "files": {
-            "_packages": {
-                "files": {
-                    "pkg2": {
-                        "files": {
-                            ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "1bd7e26611d16dddac251f1cd2be892c",
-                            "package.json": "c507821b47ed0e5fe39eeff6886da00f"
-                        },
-                        "hash": "c567de399db189c941451efea9a5bed8"
-                    },
-                    "pkg2-cdeaa1d": {
-                        "files": {
-                            ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "1bd7e26611d16dddac251f1cd2be892c",
-                            "package.json": "c507821b47ed0e5fe39eeff6886da00f"
-                        },
-                        "hash": "c567de399db189c941451efea9a5bed8"
-                    },
-                    "pkg2-cdeaa1d.gz": "d5d2b1c3a47575605de28ef77dd84fae",
-                    "pkg2-cdeaa1d~extracted": {
-                        "files": {
-                            ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
-                            ".smi.json": "1bd7e26611d16dddac251f1cd2be892c",
-                            "package.json": "c507821b47ed0e5fe39eeff6886da00f"
-                        },
-                        "hash": "c567de399db189c941451efea9a5bed8"
-                    }
-                },
-                "hash": "cf50edb4e7c6dc39e4e7702747fef273"
+        "hash": "d646e92030c957f547522ec4b7d38493",
+        "paths": {
+            "/_packages": {
+                "dir": true,
+                "size": 204
+            },
+            "/_packages/pkg2": {
+                "dir": true,
+                "size": 12,
+                "symlink": "pkg2-cdeaa1d",
+                "symlinkReal": "/_packages/pkg2-cdeaa1d"
+            },
+            "/_packages/pkg2-cdeaa1d": {
+                "dir": true,
+                "size": 170
+            },
+            "/_packages/pkg2-cdeaa1d.gz": {
+                "dir": false,
+                "size": 142,
+                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0",
+                "symlinkReal": "/../.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0"
+            },
+            "/_packages/pkg2-cdeaa1d/package.json": {
+                "size": 54
+            },
+            "/_packages/pkg2-cdeaa1d~extracted": {
+                "dir": true,
+                "size": 170
+            },
+            "/_packages/pkg2-cdeaa1d~extracted/package.json": {
+                "size": 54
+            },
+            "/_packages/pkg2/package.json": {
+                "size": 54
             }
         },
-        "hash": "d3baf40bc75bba9f2662ba17163418aa"
+        "summary": {
+            "ignoreRulesCount": 20,
+            "ignoredFileList": {},
+            "ignoredFiles": 6,
+            "totalFiles": 11,
+            "totalSize": 162
+        }
     },
     "info": {
         "pkg2": {
@@ -62,7 +72,8 @@
                         "livePath": "./_packages/pkg2",
                         "revision": "cdeaa1dc792864346ca726061a34935eaa55db1d"
                     },
-                    "subpath": {}
+                    "subpath": {},
+                    "type": {}
                 }
             },
             "descriptor": {

@@ -1,24 +1,27 @@
 {
     "hashes": {
-        "files": {
-            "dependencies": {
-                "files": {
-                    "smi-test-package-2-b767415": {
-                        "files": {
-                            "source~extracted": {
-                                "files": {
-                                    ".smi.json": "1209b4fd61c08927c322f8a30346047d"
-                                },
-                                "hash": "be218a816e3ca33888700257c4f2ccc9"
-                            }
-                        },
-                        "hash": "f6042302c8e33994b1f304065131cce1"
-                    }
-                },
-                "hash": "418de55609bd47f83045c94d23d73c2f"
+        "hash": "a3ef3aa9960c55ba62cd5633d20bdef1",
+        "paths": {
+            "/dependencies": {
+                "dir": true,
+                "size": 102
+            },
+            "/dependencies/smi-test-package-2-b767415": {
+                "dir": true,
+                "size": 102
+            },
+            "/dependencies/smi-test-package-2-b767415/source~extracted": {
+                "dir": true,
+                "size": 102
             }
         },
-        "hash": "0d81c1cd252a8aa4382b2000615fc005"
+        "summary": {
+            "ignoreRulesCount": 10,
+            "ignoredFileList": {},
+            "ignoredFiles": 1,
+            "totalFiles": 1,
+            "totalSize": 0
+        }
     },
     "info": {}
 }
