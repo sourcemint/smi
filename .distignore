@@ -4,3 +4,4 @@
 .pio.*
 /test/.tmp/
 /_packages/
+/.installed
