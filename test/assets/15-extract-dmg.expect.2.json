@@ -1,6 +1,6 @@
 {
     "hashes": {
-        "hash": "871eed62d58134360309124ecf610b03",
+        "hash": "cc5455337988135eea970df39dc1d113",
         "paths": {
             "/_packages": {
                 "dir": true,
@@ -18,8 +18,8 @@
             },
             "/_packages/test-data-e4d4f67.dmg": {
                 "dir": false,
-                "size": 121,
-                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/s3.amazonaws.com/__TEST_DATA__/Archive.dmg",
+                "size": 161,
+                "symlink": "/pinf.genesis/01-genesis.pinf.org/.deps/github.com~sourcemint~smi~0/source/installed/master/test/.tmp/.smi/cache/https/s3.amazonaws.com/__TEST_DATA__/Archive.dmg",
                 "symlinkReal": "/../.smi/cache/https/s3.amazonaws.com/__TEST_DATA__/Archive.dmg"
             },
             "/_packages/test-data-e4d4f67.dmg~.cdr": {

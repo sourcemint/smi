@@ -1,6 +1,6 @@
 {
     "hashes": {
-        "hash": "701bf94e78deb320976e168612b5572e",
+        "hash": "df8e45ad1e3a01226e0569ec5a5deda8",
         "paths": {
             "/dependencies": {
                 "dir": true,
@@ -18,8 +18,8 @@
             },
             "/dependencies/smi-test-package-1-cdeaa1d.gz": {
                 "dir": false,
-                "size": 142,
-                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0",
+                "size": 182,
+                "symlink": "/pinf.genesis/01-genesis.pinf.org/.deps/github.com~sourcemint~smi~0/source/installed/master/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0",
                 "symlinkReal": "/../.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0"
             },
             "/dependencies/smi-test-package-1-cdeaa1d/package.json": {
@@ -54,8 +54,8 @@
             },
             "/dependencies/smi-test-package-2-b767415/scripts.gz": {
                 "dir": false,
-                "size": 142,
-                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",
+                "size": 182,
+                "symlink": "/pinf.genesis/01-genesis.pinf.org/.deps/github.com~sourcemint~smi~0/source/installed/master/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",
                 "symlinkReal": "/../.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
             },
             "/dependencies/smi-test-package-2-b767415/scripts/postdeploy.sh": {
@@ -111,8 +111,8 @@
             },
             "/dependencies/smi-test-package-2/scripts.gz": {
                 "dir": false,
-                "size": 142,
-                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",
+                "size": 182,
+                "symlink": "/pinf.genesis/01-genesis.pinf.org/.deps/github.com~sourcemint~smi~0/source/installed/master/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",
                 "symlinkReal": "/../.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
             },
             "/dependencies/smi-test-package-2/scripts/postdeploy.sh": {

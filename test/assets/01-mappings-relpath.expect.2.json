@@ -1,6 +1,6 @@
 {
     "hashes": {
-        "hash": "6bb53a30b74d8a818e299e9f25f3392e",
+        "hash": "270f8c36afc2384b1ac9e6abad410858",
         "paths": {
             "/dependencies": {
                 "dir": true,
@@ -18,8 +18,8 @@
             },
             "/dependencies/smi-test-package-1-cdeaa1d.gz": {
                 "dir": false,
-                "size": 142,
-                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0",
+                "size": 182,
+                "symlink": "/pinf.genesis/01-genesis.pinf.org/.deps/github.com~sourcemint~smi~0/source/installed/master/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0",
                 "symlinkReal": "/../.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0"
             },
             "/dependencies/smi-test-package-1-cdeaa1d/package.json": {
