@@ -1,6 +1,6 @@
 {
   "name": "smi.cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "pm": "npm",
   "publish": true,
   "main": "./lib/smi.js",
