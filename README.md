@@ -5,6 +5,8 @@ smi
 
 **Status: DEV**
 
+  * **Version 1:** [![CircleCI](https://circleci.com/gh/sourcemint/smi.svg?style=svg)](https://circleci.com/gh/sourcemint/smi)
+
 The `smi` command installs packages and assets mapped in a `package.json` file into the directory structure of the declaring package.
 
 It addresses the package installation features needed by a modern development workflow and can be thought of as building on top of [npm](https://www.npmjs.org/).
