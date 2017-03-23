@@ -1,6 +1,6 @@
 {
     "hashes": {
-        "hash": "871eed62d58134360309124ecf610b03",
+        "hash": "37304bc6524f49f6e2be86ec6440373d",
         "paths": {
             "/_packages": {
                 "dir": true,
@@ -10,7 +10,7 @@
                 "dir": true,
                 "size": 17,
                 "symlink": "test-data-e4d4f67",
-                "symlinkReal": "/_packages/test-data-e4d4f67"
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/15-extract-dmg/_packages/test-data-e4d4f67"
             },
             "/_packages/test-data-e4d4f67": {
                 "dir": true,
@@ -18,9 +18,9 @@
             },
             "/_packages/test-data-e4d4f67.dmg": {
                 "dir": false,
-                "size": 121,
-                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/s3.amazonaws.com/__TEST_DATA__/Archive.dmg",
-                "symlinkReal": "/../.smi/cache/https/s3.amazonaws.com/__TEST_DATA__/Archive.dmg"
+                "size": 106,
+                "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/s3.amazonaws.com/__TEST_DATA__/Archive.dmg",
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/s3.amazonaws.com/__TEST_DATA__/Archive.dmg"
             },
             "/_packages/test-data-e4d4f67.dmg~.cdr": {
                 "size": 10518528

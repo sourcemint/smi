@@ -1,6 +1,6 @@
 {
     "hashes": {
-        "hash": "d646e92030c957f547522ec4b7d38493",
+        "hash": "be6c090a8a139524c797246b1c508ddc",
         "paths": {
             "/_packages": {
                 "dir": true,
@@ -10,17 +10,21 @@
                 "dir": true,
                 "size": 12,
                 "symlink": "pkg2-cdeaa1d",
-                "symlinkReal": "/_packages/pkg2-cdeaa1d"
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/14-contextual-mappings/_packages/pkg2-cdeaa1d"
             },
             "/_packages/pkg2-cdeaa1d": {
                 "dir": true,
-                "size": 170
+                "size": 204
             },
             "/_packages/pkg2-cdeaa1d.gz": {
                 "dir": false,
-                "size": 142,
-                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0",
-                "symlinkReal": "/../.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0"
+                "size": 127,
+                "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0",
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0"
+            },
+            "/_packages/pkg2-cdeaa1d/node_modules": {
+                "dir": true,
+                "size": 68
             },
             "/_packages/pkg2-cdeaa1d/package.json": {
                 "size": 54
@@ -32,12 +36,16 @@
             "/_packages/pkg2-cdeaa1d~extracted/package.json": {
                 "size": 54
             },
+            "/_packages/pkg2/node_modules": {
+                "dir": true,
+                "size": 68
+            },
             "/_packages/pkg2/package.json": {
                 "size": 54
             }
         },
         "summary": {
-            "ignoreRulesCount": 20,
+            "ignoreRulesCount": 22,
             "ignoredFileList": {},
             "ignoredFiles": 6,
             "totalFiles": 11,

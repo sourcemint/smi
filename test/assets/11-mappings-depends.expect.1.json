@@ -1,6 +1,6 @@
 {
     "hashes": {
-        "hash": "4327fea74fc84edf7b359729f0e87660",
+        "hash": "81fe7bdea19bb498ba97f186b43718ab",
         "paths": {
             "/_packages": {
                 "dir": true,
@@ -16,7 +16,7 @@
                 "dir": true,
                 "size": 26,
                 "symlink": "smi-test-package-1-de6f087",
-                "symlinkReal": "/_packages/smi-test-package-1-de6f087"
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/11-mappings-depends/_packages/smi-test-package-1-de6f087"
             },
             "/_packages/smi-test-package-1-de6f087": {
                 "dir": true,
@@ -26,7 +26,7 @@
                 "dir": false,
                 "size": 29,
                 "symlink": "smi-test-package-3-de6f087.gz",
-                "symlinkReal": "/../.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
             },
             "/_packages/smi-test-package-1-de6f087/scripts": {
                 "dir": true,
@@ -87,7 +87,7 @@
                 "dir": true,
                 "size": 26,
                 "symlink": "smi-test-package-2-de6f087",
-                "symlinkReal": "/_packages/smi-test-package-2-de6f087"
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/11-mappings-depends/_packages/smi-test-package-2-de6f087"
             },
             "/_packages/smi-test-package-2-de6f087": {
                 "dir": true,
@@ -97,7 +97,7 @@
                 "dir": false,
                 "size": 29,
                 "symlink": "smi-test-package-3-de6f087.gz",
-                "symlinkReal": "/../.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
             },
             "/_packages/smi-test-package-2-de6f087/scripts": {
                 "dir": true,
@@ -158,7 +158,7 @@
                 "dir": true,
                 "size": 26,
                 "symlink": "smi-test-package-3-de6f087",
-                "symlinkReal": "/_packages/smi-test-package-3-de6f087"
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/11-mappings-depends/_packages/smi-test-package-3-de6f087"
             },
             "/_packages/smi-test-package-3-de6f087": {
                 "dir": true,
@@ -166,9 +166,9 @@
             },
             "/_packages/smi-test-package-3-de6f087.gz": {
                 "dir": false,
-                "size": 142,
-                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",
-                "symlinkReal": "/../.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
+                "size": 127,
+                "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
             },
             "/_packages/smi-test-package-3-de6f087/scripts": {
                 "dir": true,

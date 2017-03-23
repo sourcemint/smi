@@ -83,6 +83,12 @@ describe('smi', function() {
 							hashes: fsinfo,
 							info: info
 						});
+
+						// Relativize paths
+						var data = JSON.stringify(expectInfo);
+						data = data.replace(new RegExp(PATH.join(__dirname, "../..").replace(/\//g, "\\/"), "g"), "");
+						expectInfo = JSON.parse(data);
+
 						if (MODE === "write") {
 							FS.outputFileSync(expectPath, JSON.stringify(expectInfo, null, 4));
 						} else {

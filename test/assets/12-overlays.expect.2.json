@@ -1,6 +1,6 @@
 {
     "hashes": {
-        "hash": "07353111f56f6078ef32fe96f4a68f5d",
+        "hash": "e5cf1eab9cc497c3cfdbbb2ff8e85724",
         "paths": {
             "/_packages": {
                 "dir": true,
@@ -10,7 +10,7 @@
                 "dir": true,
                 "size": 26,
                 "symlink": "smi-test-package-2-5ab4eea",
-                "symlinkReal": "/_packages/smi-test-package-2-5ab4eea"
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/12-overlays/_packages/smi-test-package-2-5ab4eea"
             },
             "/_packages/smi-test-package-2-5ab4eea": {
                 "dir": true,
@@ -25,9 +25,9 @@
             },
             "/_packages/smi-test-package-2-5ab4eea/source.gz": {
                 "dir": false,
-                "size": 142,
-                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",
-                "symlinkReal": "/../.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
+                "size": 127,
+                "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
             },
             "/_packages/smi-test-package-2-5ab4eea/source/module.js": {
                 "size": 24
@@ -58,9 +58,9 @@
             },
             "/_packages/smi-test-package-2/source.gz": {
                 "dir": false,
-                "size": 142,
-                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",
-                "symlinkReal": "/../.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
+                "size": 127,
+                "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
             },
             "/_packages/smi-test-package-2/source/module.js": {
                 "size": 24

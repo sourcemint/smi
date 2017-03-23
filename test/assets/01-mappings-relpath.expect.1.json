@@ -1,6 +1,6 @@
 {
     "hashes": {
-        "hash": "6bb53a30b74d8a818e299e9f25f3392e",
+        "hash": "ea3c5e9b8960b1f1e8336a405bb27b4a",
         "paths": {
             "/dependencies": {
                 "dir": true,
@@ -10,17 +10,21 @@
                 "dir": true,
                 "size": 26,
                 "symlink": "smi-test-package-1-cdeaa1d",
-                "symlinkReal": "/dependencies/smi-test-package-1-cdeaa1d"
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/01-mappings-relpath/dependencies/smi-test-package-1-cdeaa1d"
             },
             "/dependencies/smi-test-package-1-cdeaa1d": {
                 "dir": true,
-                "size": 170
+                "size": 204
             },
             "/dependencies/smi-test-package-1-cdeaa1d.gz": {
                 "dir": false,
-                "size": 142,
-                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0",
-                "symlinkReal": "/../.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0"
+                "size": 127,
+                "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0",
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0"
+            },
+            "/dependencies/smi-test-package-1-cdeaa1d/node_modules": {
+                "dir": true,
+                "size": 68
             },
             "/dependencies/smi-test-package-1-cdeaa1d/package.json": {
                 "size": 54
@@ -32,12 +36,16 @@
             "/dependencies/smi-test-package-1-cdeaa1d~extracted/package.json": {
                 "size": 54
             },
+            "/dependencies/smi-test-package-1/node_modules": {
+                "dir": true,
+                "size": 68
+            },
             "/dependencies/smi-test-package-1/package.json": {
                 "size": 54
             }
         },
         "summary": {
-            "ignoreRulesCount": 20,
+            "ignoreRulesCount": 22,
             "ignoredFileList": {},
             "ignoredFiles": 6,
             "totalFiles": 11,

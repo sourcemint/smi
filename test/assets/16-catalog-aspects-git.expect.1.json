@@ -1,6 +1,6 @@
 {
     "hashes": {
-        "hash": "34b5e02f1e583d250f289ba4970c8dfb",
+        "hash": "046d7be119514180a8cdaf552bf5316f",
         "paths": {
             "/node_modules": {
                 "dir": true,
@@ -16,25 +16,25 @@
                 "dir": true,
                 "size": 17,
                 "symlink": "smi.cache-5037abb",
-                "symlinkReal": "/.packages/github.com~sourcemint~smi.cache~pgs~source-aca1854.git"
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/16-catalog-aspects-git/.packages/github.com~sourcemint~smi.cache~pgs~source-aca1854.git"
             },
             "/node_modules/smi.cache-5037abb": {
                 "dir": true,
                 "size": 21,
                 "symlink": "smi.cache-5037abb.git",
-                "symlinkReal": "/.packages/github.com~sourcemint~smi.cache~pgs~source-aca1854.git"
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/16-catalog-aspects-git/.packages/github.com~sourcemint~smi.cache~pgs~source-aca1854.git"
             },
             "/node_modules/smi.cache-5037abb.git": {
                 "dir": true,
                 "size": 67,
                 "symlink": "../.packages/github.com~sourcemint~smi.cache~pgs~source-aca1854.git",
-                "symlinkReal": "/.packages/github.com~sourcemint~smi.cache~pgs~source-aca1854.git"
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/16-catalog-aspects-git/.packages/github.com~sourcemint~smi.cache~pgs~source-aca1854.git"
             },
             "/node_modules/smi.cache-5037abb~extracted": {
                 "dir": true,
                 "size": 21,
                 "symlink": "smi.cache-5037abb.git",
-                "symlinkReal": "/.packages/github.com~sourcemint~smi.cache~pgs~source-aca1854.git"
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/16-catalog-aspects-git/.packages/github.com~sourcemint~smi.cache~pgs~source-aca1854.git"
             },
             "/node_modules/smi.cache/README.md": {
                 "size": 20
@@ -53,25 +53,25 @@
                 "dir": true,
                 "size": 15,
                 "symlink": "smi.cli-2e7c14c",
-                "symlinkReal": "/.packages/github.com~sourcemint~smi.cli~pgs~source-877a818.git"
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/16-catalog-aspects-git/.packages/github.com~sourcemint~smi.cli~pgs~source-877a818.git"
             },
             "/node_modules/smi.cli-2e7c14c": {
                 "dir": true,
                 "size": 19,
                 "symlink": "smi.cli-2e7c14c.git",
-                "symlinkReal": "/.packages/github.com~sourcemint~smi.cli~pgs~source-877a818.git"
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/16-catalog-aspects-git/.packages/github.com~sourcemint~smi.cli~pgs~source-877a818.git"
             },
             "/node_modules/smi.cli-2e7c14c.git": {
                 "dir": true,
                 "size": 65,
                 "symlink": "../.packages/github.com~sourcemint~smi.cli~pgs~source-877a818.git",
-                "symlinkReal": "/.packages/github.com~sourcemint~smi.cli~pgs~source-877a818.git"
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/16-catalog-aspects-git/.packages/github.com~sourcemint~smi.cli~pgs~source-877a818.git"
             },
             "/node_modules/smi.cli-2e7c14c~extracted": {
                 "dir": true,
                 "size": 19,
                 "symlink": "smi.cli-2e7c14c.git",
-                "symlinkReal": "/.packages/github.com~sourcemint~smi.cli~pgs~source-877a818.git"
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/16-catalog-aspects-git/.packages/github.com~sourcemint~smi.cli~pgs~source-877a818.git"
             },
             "/node_modules/smi.cli/README.md": {
                 "size": 3624

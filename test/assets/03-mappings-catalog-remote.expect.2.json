@@ -1,6 +1,6 @@
 {
     "hashes": {
-        "hash": "d7b5a475395a2d007ad591e7f6f16093",
+        "hash": "7bce9a189f77b3b129b36946f1226962",
         "paths": {
             "/_packages": {
                 "dir": true,
@@ -8,15 +8,15 @@
             },
             "/_packages/03-mappings-catalog-remote.catalog.json": {
                 "dir": false,
-                "size": 178,
-                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/raw.githubusercontent.com/sourcemint/smi/v0.2.0/test/assets/03-mappings-catalog-remote.catalog.json",
-                "symlinkReal": "/../.smi/cache/https/raw.githubusercontent.com/sourcemint/smi/v0.2.0/test/assets/03-mappings-catalog-remote.catalog.json"
+                "size": 163,
+                "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/raw.githubusercontent.com/sourcemint/smi/v0.2.0/test/assets/03-mappings-catalog-remote.catalog.json",
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/raw.githubusercontent.com/sourcemint/smi/v0.2.0/test/assets/03-mappings-catalog-remote.catalog.json"
             },
             "/_packages/03-mappings-catalog-remote.catalog.json~~meta": {
                 "dir": false,
-                "size": 184,
-                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/raw.githubusercontent.com/sourcemint/smi/v0.2.0/test/assets/03-mappings-catalog-remote.catalog.json~~meta",
-                "symlinkReal": "/../.smi/cache/https/raw.githubusercontent.com/sourcemint/smi/v0.2.0/test/assets/03-mappings-catalog-remote.catalog.json~~meta"
+                "size": 169,
+                "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/raw.githubusercontent.com/sourcemint/smi/v0.2.0/test/assets/03-mappings-catalog-remote.catalog.json~~meta",
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/raw.githubusercontent.com/sourcemint/smi/v0.2.0/test/assets/03-mappings-catalog-remote.catalog.json~~meta"
             },
             "/dependencies": {
                 "dir": true,
@@ -26,17 +26,21 @@
                 "dir": true,
                 "size": 26,
                 "symlink": "smi-test-package-1-8fa2dce",
-                "symlinkReal": "/dependencies/smi-test-package-1-8fa2dce"
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/03-mappings-catalog-remote/dependencies/smi-test-package-1-8fa2dce"
             },
             "/dependencies/smi-test-package-1-8fa2dce": {
                 "dir": true,
-                "size": 136
+                "size": 170
             },
             "/dependencies/smi-test-package-1-8fa2dce.gz": {
                 "dir": false,
-                "size": 142,
-                "symlink": "/pinf.genesis/02-os.inception/services/0-sm/smi.cli/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.1.0",
-                "symlinkReal": "/../.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.1.0"
+                "size": 127,
+                "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.1.0",
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.1.0"
+            },
+            "/dependencies/smi-test-package-1-8fa2dce/node_modules": {
+                "dir": true,
+                "size": 68
             },
             "/dependencies/smi-test-package-1-8fa2dce/package.json": {
                 "size": 54
@@ -48,12 +52,16 @@
             "/dependencies/smi-test-package-1-8fa2dce~extracted/package.json": {
                 "size": 54
             },
+            "/dependencies/smi-test-package-1/node_modules": {
+                "dir": true,
+                "size": 68
+            },
             "/dependencies/smi-test-package-1/package.json": {
                 "size": 54
             }
         },
         "summary": {
-            "ignoreRulesCount": 12,
+            "ignoreRulesCount": 14,
             "ignoredFileList": {},
             "ignoredFiles": 3,
             "totalFiles": 10,
