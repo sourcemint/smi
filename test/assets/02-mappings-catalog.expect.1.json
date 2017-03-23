@@ -1,6 +1,6 @@
 {
     "hashes": {
-        "hash": "b135cdbb62b9385e4c3ca217773126c8",
+        "hash": "7a1bf48565a71c01319d09520305b49f",
         "paths": {
             "/_packages": {
                 "dir": true,
@@ -26,10 +26,10 @@
                 "dir": true,
                 "size": 170
             },
-            "/_packages/group1/smi-test-package-2-de6f087.gz": {
+            "/_packages/group1/smi-test-package-2-de6f087.tar.gz": {
                 "dir": false,
-                "size": 32,
-                "symlink": "../smi-test-package-2-de6f087.gz",
+                "size": 36,
+                "symlink": "../smi-test-package-2-de6f087.tar.gz",
                 "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
             },
             "/_packages/group1/smi-test-package-2-de6f087/scripts": {
@@ -97,7 +97,7 @@
                 "dir": true,
                 "size": 170
             },
-            "/_packages/smi-test-package-2-de6f087.gz": {
+            "/_packages/smi-test-package-2-de6f087.tar.gz": {
                 "dir": false,
                 "size": 127,
                 "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",
@@ -172,7 +172,7 @@
                 "dir": true,
                 "size": 204
             },
-            "/dependencies/smi-test-package-1-cdeaa1d.gz": {
+            "/dependencies/smi-test-package-1-cdeaa1d.tar.gz": {
                 "dir": false,
                 "size": 127,
                 "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0",
@@ -230,7 +230,7 @@
                     "location": "https://github.com/sourcemint/smi-test-package-1/archive/v0.2.0.tar.gz",
                     "smi": {
                         "basePath": "./dependencies/smi-test-package-1-cdeaa1d",
-                        "downloadedPath": "./dependencies/smi-test-package-1-cdeaa1d.gz",
+                        "downloadedPath": "./dependencies/smi-test-package-1-cdeaa1d.tar.gz",
                         "extractedPath": "./dependencies/smi-test-package-1-cdeaa1d~extracted",
                         "installedPath": "./dependencies/smi-test-package-1-cdeaa1d",
                         "livePath": "./dependencies/smi-test-package-1",
@@ -247,7 +247,7 @@
                     }
                 }
             },
-            "downloadedPath": "./dependencies/smi-test-package-1-cdeaa1d.gz",
+            "downloadedPath": "./dependencies/smi-test-package-1-cdeaa1d.tar.gz",
             "extractedPath": "./dependencies/smi-test-package-1-cdeaa1d~extracted",
             "installedPath": "./dependencies/smi-test-package-1-cdeaa1d",
             "livePath": "./dependencies/smi-test-package-1"
@@ -271,7 +271,7 @@
                     "location": "https://github.com/sourcemint/smi-test-package-2/archive/v0.4.0.tar.gz",
                     "smi": {
                         "basePath": "./_packages/group1/smi-test-package-2-de6f087",
-                        "downloadedPath": "./_packages/group1/smi-test-package-2-de6f087.gz",
+                        "downloadedPath": "./_packages/group1/smi-test-package-2-de6f087.tar.gz",
                         "extractedPath": "./_packages/group1/smi-test-package-2-de6f087~extracted",
                         "installedPath": "./_packages/group1/smi-test-package-2-de6f087",
                         "livePath": "./_packages/group1/smi-test-package-2",
@@ -288,7 +288,7 @@
                     }
                 }
             },
-            "downloadedPath": "./_packages/group1/smi-test-package-2-de6f087.gz",
+            "downloadedPath": "./_packages/group1/smi-test-package-2-de6f087.tar.gz",
             "extractedPath": "./_packages/group1/smi-test-package-2-de6f087~extracted",
             "installedPath": "./_packages/group1/smi-test-package-2-de6f087",
             "livePath": "./_packages/group1/smi-test-package-2"
@@ -312,7 +312,7 @@
                     "location": "https://github.com/sourcemint/smi-test-package-2/archive/v0.4.0.tar.gz",
                     "smi": {
                         "basePath": "./_packages/smi-test-package-2-de6f087",
-                        "downloadedPath": "./_packages/smi-test-package-2-de6f087.gz",
+                        "downloadedPath": "./_packages/smi-test-package-2-de6f087.tar.gz",
                         "extractedPath": "./_packages/smi-test-package-2-de6f087~extracted",
                         "installedPath": "./_packages/smi-test-package-2-de6f087",
                         "livePath": "./_packages/smi-test-package-2",
@@ -329,7 +329,7 @@
                     }
                 }
             },
-            "downloadedPath": "./_packages/smi-test-package-2-de6f087.gz",
+            "downloadedPath": "./_packages/smi-test-package-2-de6f087.tar.gz",
             "extractedPath": "./_packages/smi-test-package-2-de6f087~extracted",
             "installedPath": "./_packages/smi-test-package-2-de6f087",
             "livePath": "./_packages/smi-test-package-2"

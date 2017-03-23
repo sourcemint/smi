@@ -1,6 +1,6 @@
 {
     "hashes": {
-        "hash": "a3f5d701599cb8e4cc34f50029ec8af5",
+        "hash": "22059e4012065e0a0c5399239b8621c1",
         "paths": {
             "/dependencies": {
                 "dir": true,
@@ -23,7 +23,7 @@
                 "dir": true,
                 "size": 136
             },
-            "/dependencies/smi-test-package-2-b767415/scripts.gz": {
+            "/dependencies/smi-test-package-2-b767415/scripts.tar.gz": {
                 "dir": false,
                 "size": 127,
                 "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",
@@ -47,10 +47,10 @@
                 "dir": true,
                 "size": 238
             },
-            "/dependencies/smi-test-package-2-b767415/source.gz": {
+            "/dependencies/smi-test-package-2-b767415/source.tar.gz": {
                 "dir": false,
-                "size": 10,
-                "symlink": "scripts.gz",
+                "size": 14,
+                "symlink": "scripts.tar.gz",
                 "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
             },
             "/dependencies/smi-test-package-2-b767415/source/module.js": {
@@ -80,7 +80,7 @@
                 "dir": true,
                 "size": 136
             },
-            "/dependencies/smi-test-package-2/scripts.gz": {
+            "/dependencies/smi-test-package-2/scripts.tar.gz": {
                 "dir": false,
                 "size": 127,
                 "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",
@@ -104,10 +104,10 @@
                 "dir": true,
                 "size": 238
             },
-            "/dependencies/smi-test-package-2/source.gz": {
+            "/dependencies/smi-test-package-2/source.tar.gz": {
                 "dir": false,
-                "size": 10,
-                "symlink": "scripts.gz",
+                "size": 14,
+                "symlink": "scripts.tar.gz",
                 "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
             },
             "/dependencies/smi-test-package-2/source/module.js": {

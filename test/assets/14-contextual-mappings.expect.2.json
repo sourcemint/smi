@@ -1,6 +1,6 @@
 {
     "hashes": {
-        "hash": "be6c090a8a139524c797246b1c508ddc",
+        "hash": "94082fef80376484a5edd0c0f138e919",
         "paths": {
             "/_packages": {
                 "dir": true,
@@ -16,7 +16,7 @@
                 "dir": true,
                 "size": 204
             },
-            "/_packages/pkg2-cdeaa1d.gz": {
+            "/_packages/pkg2-cdeaa1d.tar.gz": {
                 "dir": false,
                 "size": 127,
                 "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0",

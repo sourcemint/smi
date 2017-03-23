@@ -1,6 +1,6 @@
 {
     "hashes": {
-        "hash": "0d2d3544db20e5d330102e149d53f521",
+        "hash": "31947ba16ca54bf2e7f7382e09f35b3f",
         "paths": {
             "/dependencies": {
                 "dir": true,
@@ -16,7 +16,7 @@
                 "dir": true,
                 "size": 204
             },
-            "/dependencies/smi-test-package-1-cdeaa1d.gz": {
+            "/dependencies/smi-test-package-1-cdeaa1d.tar.gz": {
                 "dir": false,
                 "size": 127,
                 "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0",
@@ -60,7 +60,7 @@
                 "dir": true,
                 "size": 136
             },
-            "/dependencies/smi-test-package-2-b767415/scripts.gz": {
+            "/dependencies/smi-test-package-2-b767415/scripts.tar.gz": {
                 "dir": false,
                 "size": 127,
                 "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",
@@ -84,10 +84,10 @@
                 "dir": true,
                 "size": 238
             },
-            "/dependencies/smi-test-package-2-b767415/source.gz": {
+            "/dependencies/smi-test-package-2-b767415/source.tar.gz": {
                 "dir": false,
-                "size": 10,
-                "symlink": "scripts.gz",
+                "size": 14,
+                "symlink": "scripts.tar.gz",
                 "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
             },
             "/dependencies/smi-test-package-2-b767415/source/module.js": {
@@ -117,7 +117,7 @@
                 "dir": true,
                 "size": 136
             },
-            "/dependencies/smi-test-package-2/scripts.gz": {
+            "/dependencies/smi-test-package-2/scripts.tar.gz": {
                 "dir": false,
                 "size": 127,
                 "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",
@@ -141,10 +141,10 @@
                 "dir": true,
                 "size": 238
             },
-            "/dependencies/smi-test-package-2/source.gz": {
+            "/dependencies/smi-test-package-2/source.tar.gz": {
                 "dir": false,
-                "size": 10,
-                "symlink": "scripts.gz",
+                "size": 14,
+                "symlink": "scripts.tar.gz",
                 "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
             },
             "/dependencies/smi-test-package-2/source/module.js": {
@@ -198,7 +198,7 @@
                     "location": "https://github.com/sourcemint/smi-test-package-1/archive/v0.2.0.tar.gz",
                     "smi": {
                         "basePath": "./dependencies/smi-test-package-1-cdeaa1d",
-                        "downloadedPath": "./dependencies/smi-test-package-1-cdeaa1d.gz",
+                        "downloadedPath": "./dependencies/smi-test-package-1-cdeaa1d.tar.gz",
                         "extractedPath": "./dependencies/smi-test-package-1-cdeaa1d~extracted",
                         "installedPath": "./dependencies/smi-test-package-1-cdeaa1d",
                         "livePath": "./dependencies/smi-test-package-1",
@@ -215,7 +215,7 @@
                     }
                 }
             },
-            "downloadedPath": "./dependencies/smi-test-package-1-cdeaa1d.gz",
+            "downloadedPath": "./dependencies/smi-test-package-1-cdeaa1d.tar.gz",
             "extractedPath": "./dependencies/smi-test-package-1-cdeaa1d~extracted",
             "installedPath": "./dependencies/smi-test-package-1-cdeaa1d",
             "livePath": "./dependencies/smi-test-package-1"
@@ -248,7 +248,7 @@
                     "location": "https://github.com/sourcemint/smi-test-package-2/archive/v0.4.0.tar.gz",
                     "smi": {
                         "basePath": "./dependencies/smi-test-package-2-b767415",
-                        "downloadedPath": "./dependencies/smi-test-package-2-b767415/scripts.gz",
+                        "downloadedPath": "./dependencies/smi-test-package-2-b767415/scripts.tar.gz",
                         "extractedPath": "./dependencies/smi-test-package-2-b767415/scripts~extracted",
                         "installedPath": "./dependencies/smi-test-package-2-b767415/scripts",
                         "livePath": "./dependencies/smi-test-package-2/scripts",
@@ -286,7 +286,7 @@
                     "location": "https://github.com/sourcemint/smi-test-package-2/archive/v0.4.0.tar.gz",
                     "smi": {
                         "basePath": "./dependencies/smi-test-package-2-b767415",
-                        "downloadedPath": "./dependencies/smi-test-package-2-b767415/source.gz",
+                        "downloadedPath": "./dependencies/smi-test-package-2-b767415/source.tar.gz",
                         "extractedPath": "./dependencies/smi-test-package-2-b767415/source~extracted",
                         "installedPath": "./dependencies/smi-test-package-2-b767415/source",
                         "livePath": "./dependencies/smi-test-package-2/source",
@@ -312,7 +312,7 @@
                     }
                 }
             },
-            "downloadedPath": "./dependencies/smi-test-package-2-b767415/scripts.gz",
+            "downloadedPath": "./dependencies/smi-test-package-2-b767415/scripts.tar.gz",
             "extractedPath": "./dependencies/smi-test-package-2-b767415/scripts~extracted",
             "installedPath": "./dependencies/smi-test-package-2-b767415",
             "livePath": "./dependencies/smi-test-package-2"

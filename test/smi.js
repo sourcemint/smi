@@ -55,7 +55,7 @@ describe('smi', function() {
 
 		var testName = filename.replace(/\.smi\.json$/, "");
 
-//if (!/^16/.test(testName)) return;
+//if (!/^18/.test(testName)) return;
 
     	it(testName, function(callback) {
 

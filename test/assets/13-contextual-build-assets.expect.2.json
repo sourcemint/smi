@@ -1,6 +1,6 @@
 {
     "hashes": {
-        "hash": "9b5f7ecc554781eb98218fe730501b72",
+        "hash": "45526f28bf405c5ce89cfef2f6e4e86b",
         "paths": {
             "/_packages": {
                 "dir": true,
@@ -26,7 +26,7 @@
                 "dir": true,
                 "size": 170
             },
-            "/_packages/pkg1-0ae8f9b/build.gz": {
+            "/_packages/pkg1-0ae8f9b/build.tar.gz": {
                 "dir": false,
                 "size": 127,
                 "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",
@@ -77,7 +77,7 @@
                 "dir": true,
                 "size": 170
             },
-            "/_packages/pkg1/build.gz": {
+            "/_packages/pkg1/build.tar.gz": {
                 "dir": false,
                 "size": 127,
                 "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",
@@ -138,10 +138,10 @@
                 "dir": true,
                 "size": 170
             },
-            "/_packages/pkg2-8980e68/build.gz": {
+            "/_packages/pkg2-8980e68/build.tar.gz": {
                 "dir": false,
-                "size": 24,
-                "symlink": "../pkg1-0ae8f9b/build.gz",
+                "size": 28,
+                "symlink": "../pkg1-0ae8f9b/build.tar.gz",
                 "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
             },
             "/_packages/pkg2-8980e68/build/scripts": {
@@ -189,10 +189,10 @@
                 "dir": true,
                 "size": 170
             },
-            "/_packages/pkg2/build.gz": {
+            "/_packages/pkg2/build.tar.gz": {
                 "dir": false,
-                "size": 24,
-                "symlink": "../pkg1-0ae8f9b/build.gz",
+                "size": 28,
+                "symlink": "../pkg1-0ae8f9b/build.tar.gz",
                 "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
             },
             "/_packages/pkg2/build/scripts": {
@@ -250,10 +250,10 @@
                 "dir": true,
                 "size": 170
             },
-            "/_packages/pkg3-8881835/build.gz": {
+            "/_packages/pkg3-8881835/build.tar.gz": {
                 "dir": false,
-                "size": 24,
-                "symlink": "../pkg1-0ae8f9b/build.gz",
+                "size": 28,
+                "symlink": "../pkg1-0ae8f9b/build.tar.gz",
                 "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
             },
             "/_packages/pkg3-8881835/build/scripts": {
@@ -301,10 +301,10 @@
                 "dir": true,
                 "size": 170
             },
-            "/_packages/pkg3/build.gz": {
+            "/_packages/pkg3/build.tar.gz": {
                 "dir": false,
-                "size": 24,
-                "symlink": "../pkg1-0ae8f9b/build.gz",
+                "size": 28,
+                "symlink": "../pkg1-0ae8f9b/build.tar.gz",
                 "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
             },
             "/_packages/pkg3/build/scripts": {
@@ -362,10 +362,10 @@
                 "dir": true,
                 "size": 170
             },
-            "/_packages/pkg4-1d7de7a/build.gz": {
+            "/_packages/pkg4-1d7de7a/build.tar.gz": {
                 "dir": false,
-                "size": 24,
-                "symlink": "../pkg1-0ae8f9b/build.gz",
+                "size": 28,
+                "symlink": "../pkg1-0ae8f9b/build.tar.gz",
                 "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
             },
             "/_packages/pkg4-1d7de7a/build/scripts": {
@@ -413,10 +413,10 @@
                 "dir": true,
                 "size": 170
             },
-            "/_packages/pkg4/build.gz": {
+            "/_packages/pkg4/build.tar.gz": {
                 "dir": false,
-                "size": 24,
-                "symlink": "../pkg1-0ae8f9b/build.gz",
+                "size": 28,
+                "symlink": "../pkg1-0ae8f9b/build.tar.gz",
                 "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0"
             },
             "/_packages/pkg4/build/scripts": {

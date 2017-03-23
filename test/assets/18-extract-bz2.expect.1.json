@@ -1,0 +1,90 @@
+{
+    "hashes": {
+        "hash": "7dfc5110af66c1cb71746c0863a930af",
+        "paths": {
+            "/_packages": {
+                "dir": true,
+                "size": 204
+            },
+            "/_packages/test-data": {
+                "dir": true,
+                "size": 17,
+                "symlink": "test-data-657af58",
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/18-extract-bz2/_packages/test-data-657af58"
+            },
+            "/_packages/test-data-657af58": {
+                "dir": true,
+                "size": 136
+            },
+            "/_packages/test-data-657af58.tar.bz2": {
+                "dir": false,
+                "size": 173,
+                "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/raw.githubusercontent.com/sourcemint/smi/d2a7972a19af7247f65458106b5d389e83a76efd/test/resources/test.tar.bz2",
+                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/raw.githubusercontent.com/sourcemint/smi/d2a7972a19af7247f65458106b5d389e83a76efd/test/resources/test.tar.bz2"
+            },
+            "/_packages/test-data-657af58/test.txt": {
+                "size": 4
+            },
+            "/_packages/test-data-657af58~extracted": {
+                "dir": true,
+                "size": 136
+            },
+            "/_packages/test-data-657af58~extracted/test.txt": {
+                "size": 4
+            },
+            "/_packages/test-data/test.txt": {
+                "size": 4
+            }
+        },
+        "summary": {
+            "ignoreRulesCount": 11,
+            "ignoredFileList": {},
+            "ignoredFiles": 3,
+            "totalFiles": 8,
+            "totalSize": 12
+        }
+    },
+    "info": {
+        "test-data": {
+            "aspect": {},
+            "aspects": {
+                "": {
+                    "copy": false,
+                    "dependsIndex": 0,
+                    "descriptor": {
+                        "config": {
+                            "smi.cli": {
+                                "aspects": {}
+                            }
+                        }
+                    },
+                    "filelink": false,
+                    "install": true,
+                    "latestOnly": false,
+                    "location": "https://raw.githubusercontent.com/sourcemint/smi/d2a7972a19af7247f65458106b5d389e83a76efd/test/resources/test.tar.bz2",
+                    "smi": {
+                        "basePath": "./_packages/test-data-657af58",
+                        "downloadedPath": "./_packages/test-data-657af58.tar.bz2",
+                        "extractedPath": "./_packages/test-data-657af58~extracted",
+                        "installedPath": "./_packages/test-data-657af58",
+                        "livePath": "./_packages/test-data",
+                        "revision": "657af58745ac5ae707967f3a07cb10e1f2d67a07"
+                    },
+                    "subpath": {},
+                    "type": {}
+                }
+            },
+            "descriptor": {
+                "config": {
+                    "smi.cli": {
+                        "aspects": {}
+                    }
+                }
+            },
+            "downloadedPath": "./_packages/test-data-657af58.tar.bz2",
+            "extractedPath": "./_packages/test-data-657af58~extracted",
+            "installedPath": "./_packages/test-data-657af58",
+            "livePath": "./_packages/test-data"
+        }
+    }
+}

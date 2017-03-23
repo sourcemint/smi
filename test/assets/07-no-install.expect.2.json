@@ -1,6 +1,6 @@
 {
     "hashes": {
-        "hash": "2465695224a53c6903c9cbfe1fa9255e",
+        "hash": "37c405fe3b2b0be406ffaa1bae581b1e",
         "paths": {
             "/_packages": {
                 "dir": true,
@@ -23,7 +23,7 @@
                 "dir": true,
                 "size": 238
             },
-            "/_packages/smi-test-package-2-c9be728/source.gz": {
+            "/_packages/smi-test-package-2-c9be728/source.tar.gz": {
                 "dir": false,
                 "size": 127,
                 "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",
@@ -56,7 +56,7 @@
                 "dir": true,
                 "size": 238
             },
-            "/_packages/smi-test-package-2/source.gz": {
+            "/_packages/smi-test-package-2/source.tar.gz": {
                 "dir": false,
                 "size": 127,
                 "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-2/tar.gz/v0.4.0",

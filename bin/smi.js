@@ -54,8 +54,8 @@ if (require.main === module) {
                                 return callback("No descriptor found at: " + descriptorPath);
                             }
                             var opts = {
-                                debug: program.debug || !!process.env.PIO_DEBUG || false,
-                                verbose: program.verbose || !!process.env.PIO_VERBOSE || program.debug || !!process.env.PIO_DEBUG || false,
+                                debug: program.debug || !!process.env.VERBOSE || !!process.env.PIO_DEBUG || false,
+                                verbose: program.verbose || !!process.env.VERBOSE || !!process.env.PIO_VERBOSE || program.debug || !!process.env.PIO_DEBUG || false,
                                 silent: program.silent || !!process.env.PIO_SILENT || false,
                                 linkSmi: (process.env.SMI_OPT_LINK_SMI === "1" || program.linkSmi === true),
                                 dryrun: "deps"
@@ -90,8 +90,8 @@ if (require.main === module) {
                     			return callback("No descriptor found at: " + descriptorPath);
                     		}
                             var opts = {
-                                debug: program.debug || !!process.env.PIO_DEBUG || false,
-                                verbose: program.verbose || !!process.env.PIO_VERBOSE || program.debug || !!process.env.PIO_DEBUG || false,
+                                debug: program.debug || !!process.env.VERBOSE || !!process.env.PIO_DEBUG || false,
+                                verbose: program.verbose || !!process.env.VERBOSE || !!process.env.PIO_VERBOSE || program.debug || !!process.env.PIO_DEBUG || false,
                                 silent: program.silent || !!process.env.PIO_SILENT || false,
                                 linkSmi: (process.env.SMI_OPT_LINK_SMI === "1" || program.linkSmi === true)
                             };

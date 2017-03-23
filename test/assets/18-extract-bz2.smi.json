@@ -1,0 +1,5 @@
+{
+	"mappings": {
+		"test-data": "https://raw.githubusercontent.com/sourcemint/smi/d2a7972a19af7247f65458106b5d389e83a76efd/test/resources/test.tar.bz2"
+	}
+}
