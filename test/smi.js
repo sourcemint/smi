@@ -8,6 +8,8 @@ const FSWALKER = require("pinf-it-filetree-insight/fswalker");
 const SMI = require("../lib/smi");
 const UTIL = require("./_util");
 
+// TODO: Start testing instead of writing all the time!
+//       Need to get results stable.
 //const MODE = "test";
 const MODE = "write";
 
@@ -70,6 +72,9 @@ describe('smi', function() {
 	    			if (err) return callback(err);
 
 	    			function getFSInfo (callback) {
+						if (!FS.existsSync(resultPath)) {
+							return callback(null, {});
+						}
 //						if (/^16/.test(testName)) {
 			    			return getFileTreeInfoFor(resultPath, callback);
 //			    		}

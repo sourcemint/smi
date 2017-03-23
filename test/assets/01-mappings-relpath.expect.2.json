@@ -1,56 +1,46 @@
 {
     "hashes": {
-        "hash": "ea3c5e9b8960b1f1e8336a405bb27b4a",
-        "paths": {
-            "/dependencies": {
-                "dir": true,
-                "size": 204
+        "files": {
+            "dependencies": {
+                "files": {
+                    "smi-test-package-1": {
+                        "files": {
+                            ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
+                            ".smi.json": "2aa47cfdb3cfe9ed2b6c8237471ac091",
+                            "node_modules": {
+                                "files": {},
+                                "hash": ""
+                            },
+                            "package.json": "c507821b47ed0e5fe39eeff6886da00f"
+                        },
+                        "hash": "b47f1f273edf5d72b02fab1b97698763"
+                    },
+                    "smi-test-package-1-cdeaa1d": {
+                        "files": {
+                            ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
+                            ".smi.json": "2aa47cfdb3cfe9ed2b6c8237471ac091",
+                            "node_modules": {
+                                "files": {},
+                                "hash": ""
+                            },
+                            "package.json": "c507821b47ed0e5fe39eeff6886da00f"
+                        },
+                        "hash": "b47f1f273edf5d72b02fab1b97698763"
+                    },
+                    "smi-test-package-1-cdeaa1d.gz": "d5d2b1c3a47575605de28ef77dd84fae",
+                    "smi-test-package-1-cdeaa1d~extracted": {
+                        "files": {
+                            ".gitignore": "a171e2c1936c2a289023372cc76e73ed",
+                            ".smi.json": "2aa47cfdb3cfe9ed2b6c8237471ac091",
+                            "package.json": "c507821b47ed0e5fe39eeff6886da00f"
+                        },
+                        "hash": "b47f1f273edf5d72b02fab1b97698763"
+                    }
+                },
+                "hash": "b32f6dc984bc405b02fa40441729a4d7"
             },
-            "/dependencies/smi-test-package-1": {
-                "dir": true,
-                "size": 26,
-                "symlink": "smi-test-package-1-cdeaa1d",
-                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/01-mappings-relpath/dependencies/smi-test-package-1-cdeaa1d"
-            },
-            "/dependencies/smi-test-package-1-cdeaa1d": {
-                "dir": true,
-                "size": 204
-            },
-            "/dependencies/smi-test-package-1-cdeaa1d.gz": {
-                "dir": false,
-                "size": 127,
-                "symlink": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0",
-                "symlinkReal": "/github.com~sourcemint~smi/test/.tmp/.smi/cache/https/codeload.github.com/sourcemint/smi-test-package-1/tar.gz/v0.2.0"
-            },
-            "/dependencies/smi-test-package-1-cdeaa1d/node_modules": {
-                "dir": true,
-                "size": 68
-            },
-            "/dependencies/smi-test-package-1-cdeaa1d/package.json": {
-                "size": 54
-            },
-            "/dependencies/smi-test-package-1-cdeaa1d~extracted": {
-                "dir": true,
-                "size": 170
-            },
-            "/dependencies/smi-test-package-1-cdeaa1d~extracted/package.json": {
-                "size": 54
-            },
-            "/dependencies/smi-test-package-1/node_modules": {
-                "dir": true,
-                "size": 68
-            },
-            "/dependencies/smi-test-package-1/package.json": {
-                "size": 54
-            }
+            "package.json": "bf48a666f42b53813e0cfe9cd321bd1e"
         },
-        "summary": {
-            "ignoreRulesCount": 22,
-            "ignoredFileList": {},
-            "ignoredFiles": 6,
-            "totalFiles": 11,
-            "totalSize": 162
-        }
-    },
-    "info": {}
+        "hash": "bdc0456c343d39842e8bcb87c41c1ea1"
+    }
 }
